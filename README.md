@@ -8,7 +8,7 @@
   * [SMMS](#SMMS)
   * [PicGo](#PicGo)
 * [公众号排版](#公众号排版)
-  * [Markdown Nice](#MarkdownNice)
+  * [Markdown Nice](#Markdown-Nice)
   * [WXMarkdown](#WXMarkdown)
 * [书](#书)
   * [鸠摩搜书](#鸠摩搜书)
