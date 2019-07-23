@@ -6,6 +6,7 @@
   * [FlipaClip](#FlipaClip)
 * [图床](#图床)
   * [SMMS](#SMMS)
+  * [PicGo](#PicGo)
 * [公众号排版](#公众号排版)
   * [Markdown Nice](#MarkdownNice)
   * [WXMarkdown](#WXMarkdown)
@@ -58,7 +59,7 @@
 <!--more-->
 ## 画图
 ### [ProcessOn](https://www.processon.com/)
-* 在线画图：支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等
+* 一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
 
 ### [Graphviz](http://www.graphviz.org/)
 * 一个利用脚本生成各种类型图表的软件
@@ -70,7 +71,10 @@
 
 ## 图床
 ### [SMMS](https://sm.ms/)
-* 一个免费的图床
+* 一个免费的在线图床网站
+
+### [PicGo](https://molunerfinn.com/PicGo/)
+* 一个免费支持图片上传和管理的图床客户端
 
 ### 公众号排版
 #### [Markdown Nice](https://www.mdnice.com/)
