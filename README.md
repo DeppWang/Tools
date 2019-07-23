@@ -142,10 +142,14 @@
 ## Mac
 ### [Alfred](https://www.alfredapp.com/)
 * 一款针对MacOS效率启动器
+
 ## Window
 ###  [Wox](http://wox.one)
 * 一款Windows效率启动器，相当于MacOS的[Alfred](https://www.alfredapp.com/)和[Launchy](https://www.launchy.net/index.php)。
 * [github地址](https://github.com/Wox-launcher/Wox)
+
+### [Everthing](https://www.voidtools.com/zh-cn/)
+* 一个基于名称快速定位文件和文件夹的软件，配合Wox使用
 
 ### [火绒](https://www.huorong.cn/)
 * 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好。
