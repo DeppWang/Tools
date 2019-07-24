@@ -80,14 +80,14 @@
 ### [PicGo](https://molunerfinn.com/PicGo/)
 * 一个免费支持图片上传和管理的图床客户端
 
-### 公众号排版
-#### [Markdown Nice](https://www.mdnice.com/)
+## 公众号排版
+### [Markdown Nice](https://www.mdnice.com/)
 * 支持自定义样式的 Markdown 编辑器
 * 支持微信公众号排版
 * 支持知乎、掘金、博客园和CSDN等平台
 * 内容和自定义样式浏览器中实时保存
 
-#### [WXMarkdown](http://md.barretlee.com/)
+### [WXMarkdown](http://md.barretlee.com/)
 * 微信公众号格式化工具
 
 ## 书
