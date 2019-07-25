@@ -1,5 +1,4 @@
 ## 目录
-
 * [画图](#画图)
   * [ProcessOn](#ProcessOn)
   * [Graphviz](#Graphviz)
@@ -36,6 +35,7 @@
   * [Wox](#Wox)
   * [Everthing](#Everthing)
   * [火绒](#火绒)
+  * [分流抢票](#分流抢票)
 * IOS
   * PPHub
   * Working Copy
@@ -57,8 +57,8 @@
   * 翻译
 * 小程序
   * 墨迹天气
-* 未分类
-  * 分流抢票
+* [未分类](#未分类)
+  * [wikiHow](#wikiHow)
 * GitHub Stars
 <!--more-->
 ## 画图
@@ -79,16 +79,13 @@
 
 ### [PicGo](https://molunerfinn.com/PicGo/)
 * 一个免费支持图片上传和管理的图床客户端
-
+* [github地址](https://github.com/Molunerfinn/PicGo)
 ## 公众号排版
 ### [Markdown Nice](https://www.mdnice.com/)
-* 支持自定义样式的 Markdown 编辑器
-* 支持微信公众号排版
-* 支持知乎、掘金、博客园和CSDN等平台
-* 内容和自定义样式浏览器中实时保存
+* 一个支持图片上传的公众号排版工具
 
 ### [WXMarkdown](http://md.barretlee.com/)
-* 微信公众号格式化工具
+* 一个微信公众号格式化网站
 
 ## 书
 ### [鸠摩搜书](https://www.jiumodiary.com/)
@@ -155,9 +152,14 @@
 ###  [Wox](http://wox.one)
 * 一款Windows效率启动器，相当于MacOS的[Alfred](https://www.alfredapp.com/)和[Launchy](https://www.launchy.net/index.php)。
 * [github地址](https://github.com/Wox-launcher/Wox)
+* [中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 
 ### [Everthing](https://www.voidtools.com/zh-cn/)
-* 一个基于名称快速定位文件和文件夹的软件，配合Wox使用
+* 一款基于名称快速定位文件和文件夹的软件，配合Wox使用
 
 ### [火绒](https://www.huorong.cn/)
 * 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好。
+
+### [分流抢票](https://www.bypass.cn/)
+* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。
+
