@@ -161,5 +161,8 @@
 * 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好。
 
 ### [分流抢票](https://www.bypass.cn/)
-* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。
+* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能：[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 
+## 未分类
+### [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
+* 一个比知乎更专业的问答网站
