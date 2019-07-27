@@ -138,7 +138,7 @@
 * 一款查看GitHub热门项目（Trending）的Android客户端
 
 ### [VOA慢速英语](https://www.wandoujia.com/apps/27475)
-* 一款可语音测评的VOA慢速营养APP
+* 一款可语音测评的VOA慢速英语Android APP
 * 另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 
 ### [AIDE](https://www.android-ide.com/)
