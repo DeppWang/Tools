@@ -24,7 +24,7 @@
   * [VOA慢速英语](#VOA慢速英语)
   * [AIDE](#AIDE)
   * [Stack Overflow](#Stack-Overflow)
-* [App](#App)
+* [APP](#APP)
   * [爱玩吉他](#爱玩吉他)
   * [Snapseed](#Snapseed)
   * [翻译](#翻译)
