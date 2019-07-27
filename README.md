@@ -90,7 +90,7 @@
 * 一个科学上网的客户端
 * [中文教程](https://github.com/DeppWang/ShadowsocksR-download)
 
-## Mac
+## MacOS
 ### [Alfred](https://www.alfredapp.com/)
 * 一款针对MacOS的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能
 * [中文教程](https://www.jianshu.com/p/e9f3352c785f)
