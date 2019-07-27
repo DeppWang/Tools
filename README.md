@@ -24,11 +24,11 @@
   * [VOA慢速英语](#VOA慢速英语)
   * [AIDE](#AIDE)
   * [Stack Overflow](#Stack-Overflow)
-* [APP](#APP)
+* [App](#App)
   * [爱玩吉他](#爱玩吉他)
   * [Snapseed](#Snapseed)
   * [翻译](#翻译)
-* [Chrome plugin](#Chrome-plugin)
+* [Chrome extensions](#Chrome-extensions)
   * [Octotree](#Octotree)
   * [OneTab](#OneTab)
   * [Google翻译](#Google翻译)
@@ -151,7 +151,7 @@
 ### [翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=zh)
 * 一款Google出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标。
 
-## Chrome plugin
+## Chrome extensions
 ### [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
 * 一个可以将github项目代码以目录的层次展示出来的插件
 * [github地址](https://github.com/ovity/octotree)
