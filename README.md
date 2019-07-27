@@ -76,7 +76,7 @@
   * [wikiHow](#wikiHow)
   * [RecordScreen.io](#RecordScreenio)
   * [FACE YOURMAGA](#FACEYOURMAGA)
-  * [I Tell You](#itellyou)
+  * [I Tell You](#i-tell-you)
   * [Server酱](#Server酱)
 
 
