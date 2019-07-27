@@ -21,7 +21,6 @@
   * [健身宝典](#健身宝典)
   * [My GitHub](#My-GitHub)
   * [Top GitHub](#Top-GitHub)
-  * [Stack Overflow](#Stack-Overflow)
   * [VOA慢速英语](#VOA慢速英语)
   * [AIDE](#AIDE)
   * [Stack Overflow](#Stack-Overflow)
@@ -29,7 +28,6 @@
   * [爱玩吉他](#爱玩吉他)
   * [Snapseed](#Snapseed)
   * [翻译](#翻译)
-  * [Stack Exchange](#Stack-Exchange)
 * [Chrome plugin](#Chrome-plugin)
   * [Octotree](#Octotree)
   * [OneTab](#OneTab)
@@ -73,7 +71,6 @@
   * [Markdown Nice](#Markdown-Nice)
   * [WXMarkdown](#WXMarkdown)
 * [未分类](#未分类)
-  * [wikiHow](#wikiHow)
   * [RecordScreen.io](#RecordScreenio)
   * [FACE YOURMAGA](#FACEYOURMAGA)
   * [I Tell You](#i-tell-you)
@@ -145,9 +142,6 @@
 * 一款支持在Android上运行代码的APP（默认是一个安卓项目）
 
 ## APP
-### [Stack Exchange](https://stackexchange.com/)
-* 一个问答网站的
-
 ### [爱玩吉他](#爱玩吉他)
 * 一个通过游戏解锁进阶学习吉他的APP，也有大量吉他谱。
 
@@ -156,8 +150,6 @@
 
 ### [翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=zh)
 * 一款Google出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标。
-
-### [Stack Exchange](#Stack-Exchange)
 
 ## Chrome plugin
 ### [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
@@ -279,9 +271,6 @@
 * 一个微信公众号格式化网站
 
 ## 未分类
-### [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
-* 一个比知乎更专业的问答网站
-
 ### [RecordScreen.io](https://recordscreen.io/)
 * 一款只需浏览器便可一键录屏的神器
 * [中文教程](https://mp.weixin.qq.com/s/n3xwbwrEP3fC7KW5HEeDRQ)
