@@ -12,6 +12,8 @@
   * [火绒](#火绒)
   * [分流抢票](#分流抢票)
   * [Internet Download Manager](#Internet-download-manager)
+* [Linux](#Linux)
+  * [Launchy](#Launchy)
 * [iOS](#iOS)
   * [PPHub](#PPHub)
   * [Working Copy](#Working-Copy)
@@ -112,6 +114,10 @@
 ### [分流抢票](https://www.bypass.cn/)
 * 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能---[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)。
 
+## Linux
+### [Launchy](https://www.launchy.net/)
+* 一款可以在Ubuntu上使用的效率启动器，也有Windows和MacOS版本。
+
 ### [Internet Download Manager](https://www.internetdownloadmanager.com/)
 * 一款无广告、不限速的收费下载软件，可试用30天
 ## iOS
@@ -198,7 +204,7 @@
 * 一个保存网页密码的插件
 
 ### [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) 
-* 一个免费的，支持BT磁力下载的插件，用于唤起[客户端](https://www.freedownloadmanager.org/zh/download.htm)下载。
+* 一个免费的，支持BT磁力下载的插件，用于唤起[客户端](https://www.freedownloadmanager.org/zh/download.htm)下载。客户端支持Windows和MacOS
 * [中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 
 ### [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)
