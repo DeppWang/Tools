@@ -1,4 +1,4 @@
-工作生活中，积累了不少酷软趣站，不定时更新。
+酷软趣站，不定时更新。
 ## 目录
 * [必备](#必备)
   * [有道云笔记](#有道云笔记)
@@ -23,7 +23,6 @@
   * [Top GitHub](#Top-GitHub)
   * [VOA慢速英语](#VOA慢速英语)
   * [AIDE](#AIDE)
-  * [Stack Overflow](#Stack-Overflow)
 * [App](#App)
   * [爱玩吉他](#爱玩吉他)
   * [Snapseed](#Snapseed)
@@ -209,8 +208,7 @@
 * 一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有iOS、Android客户端
 
 ### [西窗烛](http://www.xcz.im/)
-* 一个体会文学之美的APP
-* 何当共剪西窗烛，却话巴山夜雨时
+* 一个体会诗词之美的APP
 
 ## 问答
 ### [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)
@@ -221,7 +219,7 @@
 * 一个大牛云集的IT技术问答网站，有Android客户端
 
 ### [Stack Exchange](https://stackexchange.com/)
-* 一个涵盖各个领域的问答网站，包括Stack Overflow的问题。有iOS客户端
+* 一个涵盖各个领域的问答网站，包括Stack Overflow的问题。有iOS、Android客户端
 
 ## 视频
 ### [疯狂影视搜索](http://ifkdy.com/)
