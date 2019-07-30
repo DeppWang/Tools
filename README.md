@@ -106,13 +106,13 @@
 * [中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 
 ### [Everthing](https://www.voidtools.com/zh-cn/)
-* 一款基于名称快速定位文件和文件夹的软件，配合Wox使用。
+* 一款基于名称快速定位文件和文件夹的软件，配合Wox使用
 
 ### [火绒](https://www.huorong.cn/)
-* 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好。
+* 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好
 
 ### [分流抢票](https://www.bypass.cn/)
-* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能---[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)。
+* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能---[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 
 ## Linux
 ### [Launchy](https://www.launchy.net/)
@@ -122,7 +122,7 @@
 * 一款无广告、不限速的收费下载软件，可试用30天
 ## iOS
 ### [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)
-* 一个漂亮的iOS GitHub客户端，收费18元，值。
+* 一个漂亮的iOS GitHub客户端，收费18元，值
 
 ### [Working Copy](https://workingcopyapp.com/)
 * 一个实用的iOS Git客户端，push功能要pro版，有时候会打折（原价108）
@@ -155,13 +155,13 @@
 
 ## App
 ### [爱玩吉他](#爱玩吉他)
-* 一个通过游戏解锁进阶学习吉他的App，也有大量吉他谱。
+* 一个通过游戏解锁进阶学习吉他的App，也有大量吉他谱
 
 ### [Snapseed](#爱玩吉他)
 * Google出品的免费修图APP，功能强大，容易上手
 
 ### [翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=zh)
-* 一款Google出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标。
+* 一款Google出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标
 
 ## 小程序
 ### 墨迹天气
@@ -307,4 +307,4 @@
 * 一款从服务器推报警和日志到手机的工具
 
 ### [TeamViewer](https://www.teamviewer.cn/cn/)
-* 一款远程操控的软件，比QQ远程操控功能强大。
+* 一款远程操控的软件，比QQ远程操控功能强大
