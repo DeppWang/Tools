@@ -6,6 +6,7 @@
   * [ShadowsocksR](#ShadowsocksR)
 * [MacOS](#MacOS)
   * [Alfred](#Alfred)
+  * [Pock](#Pock)
 * [Windows](#Windows)
   * [Wox](#Wox)
   * [Everthing](#Everthing)
@@ -44,8 +45,10 @@
   * [Adblock Plus](#Adblock-Plus)
   * [LastPass](#LastPass)
   * [Free Download Manager](#Free-Download-Manager)
+  * [为什么你们就是不能加个空格呢？](#为什么你们就是不能加个空格呢)
   * [JSON Formatter](#JSON-Formatter)
   * [Video Downloader professional](#Video-Downloader-professional)
+  * https://mp.weixin.qq.com/s/S0O7GMIG_2cpgmlAGaI-NQ
 * [Greasy Fork](#Greasy-Fork)
   * [破解VIP会员视频集合](#破解VIP会员视频集合)
   * [AC-baidu](#AC-baidu)
@@ -82,6 +85,8 @@
   * [I Tell You](#i-tell-you)
   * [Server酱](#Server酱)
   * [TeamViewer](#TeamViewer)
+  * [PDF拆分](https://www.ilovepdf.com/)
+  * https://smallpdf.com/split-pdf
 
 ## 必备
 ### [有道云笔记](https://note.youdao.com/)
@@ -96,27 +101,31 @@
 
 ## MacOS
 ### [Alfred](https://www.alfredapp.com/)
-* 一款针对MacOS的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能
+* 一款针对 MacOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能
 * [中文教程](https://www.jianshu.com/p/e9f3352c785f)
+
+### [MacOS](https://pock.dev/)
+* 一个让 Touch Bar 「变废为宝」的免费小工具
+* [GitHub地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
 ###  [Wox](http://wox.one)
-* 一款针对Windows的效率启动器，相当于MacOS的[Alfred](https://www.alfredapp.com/)。
+* 一款针对 Windows 的效率启动器，相当于 MacOS 的 [Alfred](https://www.alfredapp.com/)。
 * [github地址](https://github.com/Wox-launcher/Wox)
 * [中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 
 ### [Everthing](https://www.voidtools.com/zh-cn/)
-* 一款基于名称快速定位文件和文件夹的软件，配合Wox使用
+* 一款基于名称快速定位文件和文件夹的软件，配合 Wox 使用
 
 ### [火绒](https://www.huorong.cn/)
 * 一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好
 
 ### [分流抢票](https://www.bypass.cn/)
-* 一款免费集预约和捡漏的Window客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能---[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
+* 一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合[TeamViewer](https://www.teamviewer.cn/cn/)远程操控。12306出了官方“抢票”功能---[候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 
 ## Linux
 ### [Launchy](https://www.launchy.net/)
-* 一款可以在Ubuntu上使用的效率启动器，也有Windows和MacOS版本。
+* 一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本。
 
 ### [Internet Download Manager](https://www.internetdownloadmanager.com/)
 * 一款无广告、不限速的收费下载软件，可试用30天
@@ -155,20 +164,20 @@
 
 ## App
 ### [爱玩吉他](#爱玩吉他)
-* 一个通过游戏解锁进阶学习吉他的App，也有大量吉他谱
+* 一个通过游戏解锁进阶学习吉他的 App，也有大量吉他谱
 
 ### [Snapseed](#爱玩吉他)
-* Google出品的免费修图APP，功能强大，容易上手
+* Google出品的免费修图 App，功能强大，容易上手
 
 ### [翻译](https://play.google.com/store/apps/details?id=com.google.android.apps.translate&hl=zh)
-* 一款Google出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标
+* 一款 Google 出品的翻译App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标
 
 ## 小程序
 ### 墨迹天气
 * 一款简洁的查询天气的小程序，[网页端](http://tianqi.moji.com/)
 
 ### Gitter
-* 一款颜值比较高德GitHub小程序客户端，目前感觉广告有点多，功能还有待完善(2019.7.27)
+* 一款颜值比较高德GitHub小程序客户端，目前感觉广告有点多，功能还有待完善（2019.7.27）
 * [github地址](https://github.com/huangjianke/Gitter)
 
 ## [GitHub](https://github.com/)
@@ -178,7 +187,10 @@
 * 一个学习正则表达式的教程，通俗易懂
 
 ### [fusuma](https://github.com/hiroppy/fusuma)
-* 一个可以使用Markdown写简单幻灯片（ppt）的项目
+* 一个可以使用 Markdown 写简单幻灯片（ppt）的项目
+
+### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+* 一个介绍一些中文文档排版时的规范和技巧的 wiki
 
 ## Chrome extensions
 ### [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)
@@ -272,7 +284,7 @@
 
 ## 图床
 ### [SMMS](https://sm.ms/)
-* 一个免费的在线图床网站
+* 一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
 
 ### [PicGo](https://molunerfinn.com/PicGo/)
 * 一个图片上传和管理的图床客户端，支持MacOS、Window、Linux
