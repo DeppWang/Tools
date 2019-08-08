@@ -25,7 +25,7 @@
   * [健身宝典](#健身宝典)
   * [My GitHub](#My-GitHub)
   * [Top GitHub](#Top-GitHub)
-  * [VOA慢速英语](#VOA慢速英语)
+  * [VOA 慢速英语](#VOA-慢速英语)
   * [AIDE](#AIDE)
 * [App](#App)
   * [爱玩吉他](#爱玩吉他)
@@ -35,12 +35,12 @@
   * [墨迹天气](#墨迹天气)
   * [Gitter](#Gitter)
 * [GitHub](#GitHub)
-  * [learn-regex](#learn-regex)
-  * [fusuma](#fusuma)
+  * [Learn-Regex](#learn-regex)
+  * [Fusuma](#fusuma)
 * [Chrome extensions](#Chrome-extensions)
   * [Octotree](#Octotree)
   * [OneTab](#OneTab)
-  * [Google翻译](#Google翻译)
+  * [Google 翻译](#Google-翻译)
   * [Tampermonkey](#Tampermonkey)
   * [Adblock Plus](#Adblock-Plus)
   * [LastPass](#LastPass)
@@ -48,9 +48,9 @@
   * [为什么你们就是不能加个空格呢？](#为什么你们就是不能加个空格呢)
   * [JSON Formatter](#JSON-Formatter)
   * [Video Downloader professional](#Video-Downloader-professional)
-  * https://mp.weixin.qq.com/s/S0O7GMIG_2cpgmlAGaI-NQ
+  <!--* https://mp.weixin.qq.com/s/S0O7GMIG_2cpgmlAGaI-NQ-->
 * [Greasy Fork](#Greasy-Fork)
-  * [破解VIP会员视频集合](#破解VIP会员视频集合)
+  * [破解 VIP 会员视频集合](#破解-VIP-会员视频集合)
   * [AC-baidu](#AC-baidu)
   * [百度网盘直链下载助手](#百度网盘直链下载助手)
 * [阅读](#阅读)
@@ -86,7 +86,6 @@
   * [Server酱](#Server酱)
   * [TeamViewer](#TeamViewer)
   * [PDF拆分](https://www.ilovepdf.com/)
-  * https://smallpdf.com/split-pdf
 
 ## 必备
 ### [有道云笔记](https://note.youdao.com/)
@@ -155,7 +154,7 @@
 ### [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)
 * 一款查看GitHub热门项目（Trending）的Android客户端
 
-### [VOA慢速英语](https://www.wandoujia.com/apps/27475)
+### [VOA 慢速英语](https://www.wandoujia.com/apps/27475)
 * 一款可语音测评的VOA慢速英语Android APP
 * 另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 
@@ -183,10 +182,10 @@
 ## [GitHub](https://github.com/)
 * [GitHub中文教程](https://help.github.com/cn)
 
-### [learn-regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
+### [Learn-Regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)
 * 一个学习正则表达式的教程，通俗易懂
 
-### [fusuma](https://github.com/hiroppy/fusuma)
+### [Fusuma](https://github.com/hiroppy/fusuma)
 * 一个可以使用 Markdown 写简单幻灯片（ppt）的项目
 
 ### [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
@@ -201,7 +200,7 @@
 * 一个将Chrome打开的浏览器标签合成一个，减少浏览器内存的插件
 * [中文教程](https://github.com/DeppWang/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
 
-### [Google翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
+### [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 * 一个翻译浏览网页文字的插件
 * [中文教程](https://github.com/DeppWang/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 
@@ -215,6 +214,10 @@
 ### [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) 
 * 一个保存网页密码的插件
 
+### [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)
+* 一个自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件
+* [GitHub地址](https://github.com/vinta/pangu.js)
+
 ### [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) 
 * 一个免费的，支持BT磁力下载的插件，用于唤起[客户端](https://www.freedownloadmanager.org/zh/download.htm)下载。客户端支持Windows和MacOS
 * [中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
@@ -227,7 +230,7 @@
 
 ## [Greasy Fork](https://greasyfork.org/zh-CN)
 
-### [破解VIP会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)
+### [破解 VIP 会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)
 * 一款破解各大视频网站VIP视频的脚本
 
 ### [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97)
@@ -320,3 +323,6 @@
 
 ### [TeamViewer](https://www.teamviewer.cn/cn/)
 * 一款远程操控的软件，比QQ远程操控功能强大
+
+### [PDF 拆分](https://smallpdf.com/split-pdf)
+* 一个免费拆分 PDF 的网站
