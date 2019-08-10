@@ -13,6 +13,7 @@
   * [火绒](#火绒)
   * [分流抢票](#分流抢票)
   * [Internet Download Manager](#Internet-download-manager)
+  * https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/
 * [Linux](#Linux)
   * [Launchy](#Launchy)
 * [iOS](#iOS)
@@ -86,6 +87,7 @@
   * [Server酱](#Server酱)
   * [TeamViewer](#TeamViewer)
   * [PDF拆分](https://www.ilovepdf.com/)
+  * http://t.cn/
 
 ## 必备
 ### [有道云笔记](https://note.youdao.com/)
