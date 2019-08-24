@@ -44,7 +44,7 @@
   * [GitHub 地址](https://github.com/microsoft/terminal)
 
 ## Linux
-* [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本。
+* [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本
 * [Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天
 ## iOS
 * [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)：一个漂亮的 iOS GitHub 客户端，收费 18 元，值
