@@ -1,4 +1,5 @@
-酷软趣站，不定时更新。
+<!--由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 -->
+酷软趣站，用了就回不去，不定时更新。
 ## 目录
 * [必备](#必备)
 * [MacOS](#MacOS)
@@ -21,9 +22,9 @@
 * [未分类](#未分类)
 
 ## 必备
-* [有道云笔记](https://note.youdao.com/)：一个个能实时同步笔记的多客户端软件
+* [有道云笔记](https://note.youdao.com/)：一个能实时同步笔记的多客户端软件
 * [奇妙清单](https://www.wunderlist.com/zh/)：一款基于云端工作的任务管理（to-do-list）应用软件
-* [ShadowsocksR](https://netboost.co/login?referrer=user)： 一个科学上网的客户端
+* [ShadowsocksR](https://netboost.co/login?referrer=user)： 一个科学上网的软件
   * [中文教程](https://github.com/DeppWang/ShadowsocksR-download)
 
 ## MacOS
@@ -37,35 +38,35 @@
    * [GitHub 地址](https://github.com/Wox-launcher/Wox)
    * [中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 * [Everthing](https://www.voidtools.com/zh-cn/)：一款基于名称快速定位文件和文件夹的软件，配合 Wox 使用
-* [火绒](https://www.huorong.cn/)：一款轻量、无广告电脑安全软件，相比360、腾讯，体验更好
-* [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306出了官方“抢票”功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
+* [火绒](https://www.huorong.cn/)：一款轻量、无广告电脑安全软件，相比 360、腾讯，体验更好
+* [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方“抢票”功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 * [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab)：微软全新命令行工具
   * [教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)
   * [GitHub 地址](https://github.com/microsoft/terminal)
 
 ## Linux
-* [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本
+* [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本。
 * [Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天
 ## iOS
 * [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)：一个漂亮的 iOS GitHub 客户端，收费 18 元，值
 * [Working Copy](https://workingcopyapp.com/)：一个实用的 iOS Git 客户端， push 功能要 pro 版，有时候会打折（原价 108）
-* [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：一个听VOA慢速/快速英语的 iOS 客户端
+* [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：一个听 VOA 慢速/快速英语的 iOS 客户端
 * [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720)：一个电话短信防骚扰 App
 
 <!--### [GitHawk](#GitHawk)-->
 <!--* 一个接收GitHub消息的 iOS客户端，个人感觉没有邮件及时，通知功能有点不好使-->
 
 ## Android
-* [健身宝典](https://www.wandoujia.com/apps/399479)：一款无广告、动作全的器械健身 APP，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
-* [My GitHub](http://www.appchina.com/app/me.majiajie.mygithub)：一款查看个人 GitHub 的 APP
+* [健身宝典](https://www.wandoujia.com/apps/399479)：一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
+* [My GitHub](http://www.appchina.com/app/me.majiajie.mygithub)：一款查看个人 GitHub 的 App
 * [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)：一款查看 GitHub 热门项目（Trending）的 Android 客户端
-* [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Android APP
+* [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Android App
   * 另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
-* [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 APP（默认是一个安卓项目）
+* [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
 ## App
 * [爱玩吉他](http://iguitar.immusician.com/)：一个通过游戏解锁进阶学习吉他的 App，也有大量吉他谱
-* [Snapseed](https://snapseed.online/)：一款Google出品的免费修图 App，功能强大，容易上手
+* [Snapseed](https://snapseed.online/)：一款 Google 出品的免费修图 App，功能强大，容易上手
 * [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android版悬浮窗很实用，缺点是有的单词没音标
 
 ## 小程序
@@ -105,7 +106,7 @@
 ## 阅读
 * [鸠摩搜书](https://www.jiumodiary.com/)：一个能搜索全网电子书的网站
 * [Medium](https://medium.com/)：一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有 iOS、Android 客户端
-* [西窗烛](http://www.xcz.im/)：一个体会诗词之美的 APP
+* [西窗烛](http://www.xcz.im/)：一个体会诗词之美的 App
 
 ## 问答
 * [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)：一个比知乎更「专业」的问答网站
@@ -114,12 +115,13 @@
 
 ## 视频
 * [疯狂影视搜索](http://ifkdy.com/)：一个能搜索全网影视资源的网站
-* [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的好 APP
-* [人人视频](https://rr.tv/)：一款功能强大，操作简单的视频剪辑 APP
+* [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的好 App
+* [VLLO](https://www.google.com/search?q=VLLO)：一款功能强大，操作简单的视频剪辑 App
 * [VUE](https://vuevideo.net/)：一个精品短视频社区
 
 ## 画图
-* [VUE](https://vuevideo.net/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
+* [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
+* [draw.io](https://www.draw.io/)：跟 Processon 类似。
 * [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件
    * [中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)
 * [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画
