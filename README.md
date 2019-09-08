@@ -24,7 +24,7 @@
 
 - [有道云笔记](https://note.youdao.com/)：一个能实时同步笔记的多客户端软件
 - [奇妙清单](https://www.wunderlist.com/zh/)：一款基于云端工作的任务管理（to-do-list）应用软件
-- [ShadowsocksR](https://netboost.co/login?referrer=user)： 一个科学上网的软件。[中文教程](https://github.com/DeppWang/ShadowsocksR-download)
+- [SSR](https://netboost.co/login?referrer=user)： 一个科学上网的软件。[中文教程](https://github.com/DeppWang/ShadowsocksR-download)
 
 ## MacOS
 
@@ -98,7 +98,6 @@
 - [破解 VIP 会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)：一款破解各大视频网站 VIP 视频的脚本
 - [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97)：一款去除（百度）搜索引擎右侧广告，更改搜索页样式的脚本
 - [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)：一款生成 BT 链接的的百度网盘下载助手
-
 
 ## 写作
 
