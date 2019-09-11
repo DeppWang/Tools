@@ -1,10 +1,15 @@
-<!--由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 -->
-酷软趣站，用了就回不去，不定时更新。
+酷毙的软件、有趣的网站，总有一款适合你。用了就回不去，不定时更新。
+
+<!--注：由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 你可以在公众号菜单栏「工具」处找到最新版，也可以直接回复「酷软趣站」；或关注 GitHub 项目：-->
+<!--```-->
+<!--https://github.com/DeppWang/cool-software-fun-website-->
+<!--```-->
+以下是我正在用的，值得推荐一波的酷软趣站：
 
 ## 目录
 
 - [必备](#必备)
-- [MacOS](#MacOS)
+- [macOS](#macOS)
 - [Windows](#Windows)
 - [Linux](#Linux)
 - [iOS](#iOS)
@@ -26,14 +31,15 @@
 - [奇妙清单](https://www.wunderlist.com/zh/)：一款基于云端工作的任务管理（to-do-list）应用软件
 - [SSR](https://netboost.co/login?referrer=user)： 一个科学上网的软件。[中文教程](https://github.com/DeppWang/ShadowsocksR-download)
 
-## MacOS
+## macOS
 
-- [Alfred](https://www.alfredapp.com/)：一款针对 MacOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。[中文教程](https://www.jianshu.com/p/e9f3352c785f)
-- [MacOS](https://pock.dev/)：一个让 Touch Bar 「变废为宝」的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
+- [Alfred](https://www.alfredapp.com/)：一款针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。[中文教程](https://www.jianshu.com/p/e9f3352c785f)
+- [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
+- [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：一款针对 macOS 的图床神器。[中文教程](https://sspai.com/post/34756)
 
 ## Windows
 
-- [Wox](http://wox.one)：一款针对 Windows 的效率启动器，相当于 MacOS 的 [Alfred](https://www.alfredapp.com/)。[GitHub 地址](https://github.com/Wox-launcher/Wox)、[中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
+- [Wox](http://wox.one)：一款针对 Windows 的效率启动器，相当于 macOS 的 [Alfred](https://www.alfredapp.com/)。[GitHub 地址](https://github.com/Wox-launcher/Wox)、[中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 - [Everthing](https://www.voidtools.com/zh-cn/)：一款基于名称快速定位文件和文件夹的软件，配合 Wox 使用
 - [火绒](https://www.huorong.cn/)：一款轻量、无广告电脑安全软件，相比 360、腾讯，体验更好
 - [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方“抢票”功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
@@ -41,7 +47,7 @@
 
 ## Linux
 
-- [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 MacOS 版本。
+- [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。
 - [Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天
 
 ## iOS
@@ -72,6 +78,7 @@
 
 - 彩云天气：一款比较准的简洁的查询天气的小程序，[网页端](http://www.caiyunapp.com/map/)
 - Gitter：一款颜值比较高的 GitHub 小程序客户端，目前感觉广告有点多，功能还有待完善（2019.7.27）。[GitHub 地址](https://github.com/huangjianke/Gitter)
+- 健身宝典 Lite：一款简洁的器械健身动画动作指导的小程序
 
 ## [GitHub](https://github.com/)
 
@@ -89,7 +96,8 @@
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon) ：一个广告拦截插件
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) ：一个保存网页密码的插件
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)：一个自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
-- [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持Windows和MacOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)：一款为 Chrome 提供「黑暗模式」的插件。[GitHub 地址](https://github.com/darkreader/darkreader)
+- [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持Windows和macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：一个格式化接口数据为 JSON 格式的插件
 - [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件
 
@@ -109,7 +117,7 @@
 - [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)
 - [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
 - [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
-- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持MacOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
+- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
 - [Behance](https://www.behance.net/)：一个主要是各种插画创意图片的图片素材网站
 - [Pexels](https://www.pexels.com/)：一个分享免费图片和视频的图片素材网站
 - [Markdown Nice](https://www.mdnice.com/)：一个支持图片上传的公众号排版工具
