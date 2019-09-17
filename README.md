@@ -122,7 +122,7 @@
 - [Pexels](https://www.pexels.com/)：一个分享免费图片和视频的图片素材网站
 - [Markdown Nice](https://www.mdnice.com/)：一个支持图片上传的公众号排版工具
 - [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站
-- [carbon]([https://carbon.now.sh](https://carbon.now.sh/)): 一个将代码块转换为图片的工具
+- [carbon](https://carbon.now.sh/): 一个将代码块转换为图片的工具
 
 ## 阅读
 
