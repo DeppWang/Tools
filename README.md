@@ -97,7 +97,7 @@
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) ：一个保存网页密码的插件
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)：一个自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)：一款为 Chrome 提供「黑暗模式」的插件。[GitHub 地址](https://github.com/darkreader/darkreader)
-- [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持Windows和macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
+- [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持 Windows 和 macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：一个格式化接口数据为 JSON 格式的插件
 <!--[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件-->
 
