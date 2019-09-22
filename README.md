@@ -35,8 +35,9 @@
 
 - [Alfred](https://www.alfredapp.com/)：一款针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
-- [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：一款针对 macOS 的图床神器。[中文教程](https://sspai.com/post/34756)
-- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 一个针对 macOS 的免费互联网下载管理器，也有 Windows 版。
+- [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：一款针对 macOS 的图床神器，结合 Typora 食用，爽飞天。[中文教程](https://sspai.com/post/34756)
+- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 一个针对 macOS 的免费互联网下载管理器，也有 Windows 版
+- [Xnip](http://zh.xnipapp.com/): 一个可在 macOS 上长截屏的免费小工具
 
 ## Windows
 
