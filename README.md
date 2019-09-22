@@ -11,7 +11,6 @@
 - [必备](#必备)
 - [macOS](#macOS)
 - [Windows](#Windows)
-<!--- [Linux](#Linux)-->
 - [iOS](#iOS)
 - [Android](#Android)
 - [App](#App)
@@ -48,10 +47,10 @@
 - [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab)：微软全新命令行工具。[教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)、[GitHub 地址](https://github.com/microsoft/terminal)
 
-## <!--Linux-->
+<!--Linux-->
 
-- <!--[Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。-->
-- <!--[Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天-->
+<!--[Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。-->
+<!--[Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天-->
 
 ## iOS
 
@@ -95,18 +94,17 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)：一个可以将 github 项目代码以目录的层次展示出来的插件。[GitHub 地址](https://github.com/ovity/octotree)
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：一个将 Chrome 打开的浏览器标签合成一个，减少浏览器内存的插件。[中文教程](https://github.com/DeppWang/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：一个翻译浏览网页文字的插件。[中文教程](https://github.com/DeppWang/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) ：一个用户脚本管理插件，插件安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) ：一个用户脚本管理插件，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon) ：一个广告拦截插件
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) ：一个保存网页密码的插件
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)：一个自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)：一款为 Chrome 提供「黑暗模式」的插件。[GitHub 地址](https://github.com/darkreader/darkreader)
 - [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持Windows和macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：一个格式化接口数据为 JSON 格式的插件
+<!--[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件-->
 
-  <!--[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件-->
-
-## [油猴脚本](https://greasyfork.org/zh-CN)
-
+## 油猴脚本
+- 脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。
 - [破解 VIP 会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)：一款破解各大视频网站 VIP 视频的脚本
 - [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97)：一款去除（百度）搜索引擎右侧广告，更改搜索页样式的脚本
 - [百度网盘直链下载助手](https://greasyfork.org/zh-CN/scripts/39504-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)：一款生成 BT 链接的的百度网盘下载助手
