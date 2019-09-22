@@ -117,7 +117,7 @@
 - [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
 - [draw.io](https://www.draw.io/)：跟 Processon 类似
 - [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
-- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
+- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持 macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
 - [carbon](https://carbon.now.sh/): 一个将代码块转换为图片的工具
 - [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
 <!--[Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
