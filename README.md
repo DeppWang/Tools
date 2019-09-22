@@ -82,9 +82,8 @@
 - Gitter：一款颜值比较高的 GitHub 小程序客户端，目前感觉广告有点多，功能还有待完善（2019.7.27）。[GitHub 地址](https://github.com/huangjianke/Gitter)
 - 健身宝典 Lite：一款简洁的器械健身动画动作指导的小程序
 
-## [GitHub](https://github.com/)
-
-- [GitHub 中文教程](https://help.github.com/cn)
+## GitHub
+- [GitHub 中文教程](https://help.github.com/cn)、[热门项目](https://github.com/trending)、[热门开发者](https://github.com/trending/developers)
 - [Learn-Regex](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md)：一个学习正则表达式的教程，通俗易懂
 - [Fusuma](https://github.com/hiroppy/fusuma)：一个可以使用 Markdown 写简单幻灯片（ppt）的项目
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：一个介绍一些中文文档排版时的规范和技巧的 wiki
@@ -118,12 +117,12 @@
 - [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
 - [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
 - [draw.io](https://www.draw.io/)：跟 Processon 类似
- <!--[Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
 - [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
 - [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
-<!--- [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站-->
 - [carbon](https://carbon.now.sh/): 一个将代码块转换为图片的工具
 - [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
+<!--[Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
+<!--- [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站-->
 
 ## 阅读
 
