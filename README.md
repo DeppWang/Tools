@@ -11,14 +11,14 @@
 - [必备](#必备)
 - [macOS](#macOS)
 - [Windows](#Windows)
-- [Linux](#Linux)
+<!--- [Linux](#Linux)-->
 - [iOS](#iOS)
 - [Android](#Android)
 - [App](#App)
 - [小程序](#小程序)
 - [GitHub](#GitHub)
-- [Chrome extensions](#Chrome-extensions)
-- [Greasy Fork](#Greasy-Fork)
+- [Chrome 插件](#Chrome-插件)
+- [油猴脚本](#油猴脚本)
 - [写作](#写作)
 - [阅读](#阅读)
 - [问答](#问答)
@@ -27,9 +27,10 @@
 
 ## 必备
 
-- [有道云笔记](https://note.youdao.com/)：一个能实时同步笔记的多客户端软件
+- [Tyropa](https://www.typora.io/): 一个所见即所写的 Markdown 客户端编辑器
 - [奇妙清单](https://www.wunderlist.com/zh/)：一款基于云端工作的任务管理（to-do-list）应用软件
 - [SSR](https://netboost.co/login?referrer=user)： 一个科学上网的软件。[中文教程](https://github.com/DeppWang/ShadowsocksR-download)
+- [有道云笔记](https://note.youdao.com/)：一个能实时同步笔记的多客户端软件
 
 ## macOS
 
@@ -44,13 +45,13 @@
 - [Wox](http://wox.one)：一款针对 Windows 的效率启动器，相当于 macOS 的 [Alfred](https://www.alfredapp.com/)。[GitHub 地址](https://github.com/Wox-launcher/Wox)、[中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 - [Everthing](https://www.voidtools.com/zh-cn/)：一款基于名称快速定位文件和文件夹的软件，配合 Wox 使用
 - [火绒](https://www.huorong.cn/)：一款轻量、无广告电脑安全软件，相比 360、腾讯，体验更好
-- [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方“抢票”功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
+- [分流抢票](https://www.bypass.cn/)：一款免费集预约和捡漏的 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab)：微软全新命令行工具。[教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)、[GitHub 地址](https://github.com/microsoft/terminal)
 
-## Linux
+## <!--Linux-->
 
-- [Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。
-- [Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天
+- <!--[Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。-->
+- <!--[Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天-->
 
 ## iOS
 
@@ -89,7 +90,7 @@
 - [Fusuma](https://github.com/hiroppy/fusuma)：一个可以使用 Markdown 写简单幻灯片（ppt）的项目
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：一个介绍一些中文文档排版时的规范和技巧的 wiki
 
-## Chrome extensions
+## Chrome 插件
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)：一个可以将 github 项目代码以目录的层次展示出来的插件。[GitHub 地址](https://github.com/ovity/octotree)
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：一个将 Chrome 打开的浏览器标签合成一个，减少浏览器内存的插件。[中文教程](https://github.com/DeppWang/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
@@ -101,9 +102,10 @@
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)：一款为 Chrome 提供「黑暗模式」的插件。[GitHub 地址](https://github.com/darkreader/darkreader)
 - [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：一个免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端支持Windows和macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：一个格式化接口数据为 JSON 格式的插件
-- [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件
 
-## [Greasy Fork](https://greasyfork.org/zh-CN)
+  <!--[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件-->
+
+## [油猴脚本](https://greasyfork.org/zh-CN)
 
 - [破解 VIP 会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88)：一款破解各大视频网站 VIP 视频的脚本
 - [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97)：一款去除（百度）搜索引擎右侧广告，更改搜索页样式的脚本
@@ -111,20 +113,19 @@
 
 ## 写作
 
-- [Tyropa](https://www.typora.io/): 一个所见即所写的 Markdown 客户端编辑器
-- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
 - [OpenWrite](https://www.openwrite.cn/): 一个写完的文章一键分发到多个科技平台上的工具，[中文教程](https://mp.weixin.qq.com/s/Tc0UtDwixLrJqgjwDzM9UQ)
-- [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
-- [draw.io](https://www.draw.io/)：跟 Processon 类似
-- [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)
-- [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
-- [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
-- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
+- [Markdown Nice](https://www.mdnice.com/)：一个美观的公众号在线排版工具
 - [Behance](https://www.behance.net/)：一个主要是各种插画创意图片的图片素材网站
 - [Pexels](https://www.pexels.com/)：一个分享免费图片和视频的图片素材网站
-- [Markdown Nice](https://www.mdnice.com/)：一个支持图片上传的公众号排版工具
-- [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站
+- [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
+- [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
+- [draw.io](https://www.draw.io/)：跟 Processon 类似
+ <!--[Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
+- [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
+- [PicGo](https://molunerfinn.com/PicGo/)：一个图片上传和管理的图床客户端，支持macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
+<!--- [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站-->
 - [carbon](https://carbon.now.sh/): 一个将代码块转换为图片的工具
+- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
 
 ## 阅读
 
