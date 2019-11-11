@@ -13,7 +13,7 @@
 - [Windows](#Windows)
 - [iOS](#iOS)
 - [Android](#Android)
-- [Alfred3 Workflows](Alfred3 Workflows)
+- [Alfred3 Workflows](Alfred3-Workflows)
 - [Chrome 插件](#Chrome-插件)
 - [油猴脚本](#油猴脚本)
 - [写作](#写作)
@@ -30,8 +30,8 @@
 
 - [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
 - [奇妙清单](https://www.wunderlist.com/zh/)：基于云端工作的任务管理（to-do-list）应用软件
-- [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/ShadowsocksR/README.md)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
-- [有道云笔记](https://note.youdao.com/)：实时同步笔记的多客户端软件
+- [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
+- [有道云笔记](https://note.youdao.com/)：实时同步笔记的多客户端软件2
 - [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)。
 
 ## macOS
@@ -98,9 +98,9 @@
 ## Chrome 插件
 
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)：将 github 项目代码以目录的层次展示。[GitHub 地址](https://github.com/ovity/octotree)
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
-- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：翻译浏览网页文字。[中文教程](https://github.com/DeppWang/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) ：俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
+- [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：翻译浏览网页文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
+- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) ：俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon) ：广告拦截插件
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) ：LastPass 插件，自动填充账号密码
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)：自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
