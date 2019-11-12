@@ -1,11 +1,6 @@
 
 酷软趣站。
 
-<!--注：由于微信不允许外部链接，你需要点击页尾左下角的「阅读原文」，才能访问文中的链接。 你可以在公众号菜单栏「工具」处找到最新版，也可以直接回复「酷软趣站」；或关注 GitHub 项目：-->
-<!--```-->
-<!--https://github.com/DeppWang/cool-software-fun-website-->
-<!--```-->
-
 ## 目录
 
 - [必备](#必备)
@@ -31,24 +26,24 @@
 - [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
 - [奇妙清单](https://www.wunderlist.com/zh/)：基于云端工作的任务管理（to-do-list）应用软件
 - [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
-- [有道云笔记](https://note.youdao.com/)：实时同步笔记的多客户端软件2
+- [有道云笔记](https://note.youdao.com/)：实时同步笔记的多客户端软件
 - [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)。
 
 ## macOS
 
-- [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)。
-- [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。默认免费，但会时不时提醒，去除提醒 25。
-- [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88。
-- [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本。
-- [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具。
+- [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
+- [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。默认免费，但会时不时提醒，去除提醒 25
+- [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
+- [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
+- [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
 - [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费。[中文教程](https://sspai.com/post/34756)
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
-- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速。
+- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右。可用 [Dozer](https://github.com/Mortennn/Dozer)，相当于免费版 Bartender
 - [Xnip](http://zh.xnipapp.com/): 一个可在 macOS 上长截屏的免费小工具
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
-<!--PopClip、Pin、Magnet、SizeUp-->
+<!--Pin、Magnet、SizeUp-->
 
 ## Windows
 
