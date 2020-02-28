@@ -1,4 +1,6 @@
-🔧 个人常用生产力工具：涉及 macOS/Windows/iOS/Android/Chrome 等
+# 酷软趣站
+
+🔧 个人常用生产力工具推荐：涉及 macOS/Windows/iOS/Android/Chrome 等。可能未即时更新，可关注 GitHub：https://github.com/DeppWang/Tools
 
 ## 目录
 
@@ -7,7 +9,8 @@
 - [Windows](#Windows)
 - [iOS](#iOS)
 - [Android](#Android)
-- [Alfred3 Workflows](Alfred3-Workflows)
+- [Alfred3 Workflows](#Alfred3-Workflows)
+- [Popclip Extensions](#Popclip-Extensions)
 - [Chrome 插件](#Chrome-插件)
 - [油猴脚本](#油猴脚本)
 - [写作](#写作)
@@ -25,22 +28,22 @@
 - [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
 - [奇妙清单](https://www.wunderlist.com/zh/)：基于云端工作的任务管理（to-do-list）应用软件
 - [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
-- [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)。
+- [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
 
 ## macOS
 
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
-- [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元。
-- [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88。
+- [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
+- [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
 - [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费，建议开启图片压缩功能，可加快访问速度，减少流量（如果使用自定义图床）。[中文教程](https://sspai.com/post/34756)
-- [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具。
+- [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-- [Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右。
-- [Dozer：](https://github.com/Mortennn/Dozer)相当于免费版 Bartender
-- [Xnip：](http://zh.xnipapp.com/)一个可在 macOS 上长截屏的免费小工具
+- [Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右
+- [Dozer](https://github.com/Mortennn/Dozer)：相当于免费版 Bartender
+- [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
@@ -51,11 +54,6 @@
 - [分流抢票](https://www.bypass.cn/)：集预约和捡漏的免费 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 出了官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab)：微软全新命令行工具。[教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)、[GitHub 地址](https://github.com/microsoft/terminal)
 
-<!--Linux-->
-
-<!--[Launchy](https://www.launchy.net/)：一款可以在 Ubuntu 上使用的效率启动器，也有 Windows 和 macOS 版本。-->
-<!--[Internet Download Manager](https://www.internetdownloadmanager.com/)：一款无广告、不限速的收费下载软件，可试用 30 天-->
-
 ## iOS
 
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)：一个漂亮的 iOS GitHub 客户端，收费 18 元
@@ -64,9 +62,6 @@
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：听 VOA 慢速/快速英语的 iOS 客户端，免费
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720)：电话短信防骚扰 App，免费
 - [2 岁学说话]([https://apps.apple.com/cn/app/2%E5%B2%81%E5%AD%A6%E8%AF%B4%E8%AF%9D/id1198927798](https://apps.apple.com/cn/app/2岁学说话/id1198927798))：「听音识图」的英语学习 APP
-
-<!--### [GitHawk](#GitHawk)-->
-<!--* 一个接收GitHub消息的 iOS客户端，个人感觉没有邮件及时，通知功能有点不好使-->
 
 ## Android
 
@@ -79,9 +74,9 @@
 
 ## Alfred3 Workflows
 
-- [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/02/translate-alfred-workflows-help/)
-- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)：提供查看个人仓库、stars，搜索用户、仓库等一系列功能
-- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：常用的 emoji
+- [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
+- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)：提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
+- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：查看常用的 emoji
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)：截屏后 Alfred 输入关键字，自动识别文字，并复制到剪贴板
 - [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/)：快捷查询 Dash API
 - [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)：不打开网页搜索 Stack Overflow，并得到结果
@@ -89,6 +84,11 @@
 - [V2EX](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/V2EX.alfredworkflow)：获取 V2EX 最新、最热文章
 - [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本地 ip、外网 ip
 - [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
+
+## PopClip Extensions
+
+- [PopClip Extensions 官网](https://pilotmoon.com/popclip/extensions/)
+- [Google-Translate](https://github.com/thang-nm/Google-Translate.popclipext)：查询更快的翻译插件
 
 ## Chrome 插件
 
@@ -100,6 +100,7 @@
 - [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon) ：LastPass 插件，自动填充账号密码
 - [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews)：自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
 - [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)：黑色主题，适用于任何网站，完全免费。[GitHub 地址](https://github.com/darkreader/darkreader)
+- [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp)：在工具栏查看订阅的 RSS 或 Atom feeds 文章
 - [Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon) ：免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端有 Windows 和 macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：翻译浏览网页文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
@@ -131,7 +132,6 @@
 - [carbon](https://carbon.now.sh/): 将代码块转换为图片的网站
 - [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
 - [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
-  <!--- [WXMarkdown](http://md.barretlee.com/)：一个微信公众号格式化网站-->
 
 ## PC App
 
@@ -143,7 +143,6 @@
 - [Snapseed](https://snapseed.online/)：一款 Google 出品的免费修图 App，功能强大，容易上手
 - [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
 - [Rosetta Stone](https://www.rosettastone.com/)：主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，Android 破解版 [看这里](https://pan.baidu.com/s/1bfgIySxTG6d7xkjs4oiLJw)（提取码: um3h），[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
-
 
 ## 小程序
 
