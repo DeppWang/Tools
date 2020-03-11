@@ -25,7 +25,7 @@
 
 ## 必备
 
-- [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
+- [Typora](https://www.typora.io/)：简洁、好用、所见即所写的 Markdown 客户端编辑器
 - [奇妙清单](https://www.wunderlist.com/zh/)：基于云端工作的任务管理（to-do-list）应用软件
 - [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
 - [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
