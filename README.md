@@ -41,8 +41,8 @@
 - [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-- [Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右
-- [Dozer](https://github.com/Mortennn/Dozer)：相当于免费版 Bartender
+<!--[Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右-->
+- [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
@@ -69,7 +69,7 @@
 - [My GitHub](http://www.appchina.com/app/me.majiajie.mygithub)：一款查看个人 GitHub 的 App
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)：一款查看 GitHub 热门项目（Trending）的 Android 客户端
 - [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Android App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
-- [Auto.js](https://hyb1996.github.io/AutoJs-Docs/#/): Android 平台上不需要 Root 权限的 JavaScript 自动化软件，可用于开发自动收取蚂蚁森林能量等操作。[GitHub 地址](https://github.com/hyb1996/Auto.js)
+<!--[Auto.js](https://hyb1996.github.io/AutoJs-Docs/#/): Android 平台上不需要 Root 权限的 JavaScript 自动化软件，可用于开发自动收取蚂蚁森林能量等操作。[GitHub 地址](https://github.com/hyb1996/Auto.js)-->
 - [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
 ## Alfred3 Workflows
