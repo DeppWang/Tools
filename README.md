@@ -76,11 +76,12 @@
 
 - [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)：提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
-- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：查看常用的 emoji
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)：截屏后 Alfred 输入关键字，自动识别文字，并复制到剪贴板
+- [alfred-google-translate](https://github.com/xfslove/alfred-google-translate)：基于 Google 翻译 API 的翻译插件，无需打开网页
+- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow)：集翻译、发音、添加单词本、复制剪贴板功能一体
+- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：查看常用的 emoji
 - [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/)：快捷查询 Dash API
 - [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)：不打开网页搜索 Stack Overflow，并得到结果
-- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow)：集翻译、发音、添加单词本、复制剪贴板功能一体
 - [V2EX](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/V2EX.alfredworkflow)：获取 V2EX 最新、最热文章
 - [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本地 ip、外网 ip
 - [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
