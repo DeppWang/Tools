@@ -14,6 +14,7 @@
 - [Chrome 插件](#Chrome-插件)
 - [油猴脚本](#油猴脚本)
 - [写作](#写作)
+- [图片](#图片)
 - [PC App](#PC-App)
 - [App](#App)
 - [小程序](#小程序)
@@ -37,13 +38,11 @@
 - [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
-- [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费，建议开启图片压缩功能，可加快访问速度，减少流量（如果使用自定义图床）。[中文教程](https://sspai.com/post/34756)
-- [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-<!--[Bartender 3](https://www.macbartender.com/)：一个管理「人满为患」的顶部菜单栏图标的工具，可免费使用 4 周，后续收费 112 左右-->
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
+- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，设置选择「高清屏 ( Retina) 下截取 1X 大小图片」
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
@@ -68,8 +67,7 @@
 - [健身宝典](https://www.wandoujia.com/apps/399479)：一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
 - [My GitHub](http://www.appchina.com/app/me.majiajie.mygithub)：一款查看个人 GitHub 的 App
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)：一款查看 GitHub 热门项目（Trending）的 Android 客户端
-- [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Android App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
-<!--[Auto.js](https://hyb1996.github.io/AutoJs-Docs/#/): Android 平台上不需要 Root 权限的 JavaScript 自动化软件，可用于开发自动收取蚂蚁森林能量等操作。[GitHub 地址](https://github.com/hyb1996/Auto.js)-->
+  <!--[Auto.js](https://hyb1996.github.io/AutoJs-Docs/#/): Android 平台上不需要 Root 权限的 JavaScript 自动化软件，可用于开发自动收取蚂蚁森林能量等操作。[GitHub 地址](https://github.com/hyb1996/Auto.js)-->
 - [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
 ## Alfred3 Workflows
@@ -123,16 +121,30 @@
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：介绍一些中文文档排版时的规范和技巧的 wiki
 - [OpenWrite](https://www.openwrite.cn/): 将文章一键分发到多个科技平台上的工具，[中文教程](https://mp.weixin.qq.com/s/Tc0UtDwixLrJqgjwDzM9UQ)
 - [Markdown Nice](https://www.mdnice.com/)：美观的公众号在线排版工具
-- [Behance](https://www.behance.net/)：主要是各种插画创意图片的图片素材网站
-- [Pexels](https://www.pexels.com/)：分享免费图片和视频的图片素材网站
-- [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
+- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
+
+## 图片
+
+绘图
+
+- [Excalidraw](https://excalidraw.com/)：一个非常简单易用的白板绘图开源工具 
 - [Processon](https://www.processon.com/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
 - [draw.io](https://www.draw.io/)：跟 Processon 类似
+- [carbon](https://carbon.now.sh/): 将代码块转换为图片的网站
+- [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)
+- [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
+
+素材
+
+- [Behance](https://www.behance.net/)：主要是各种插画创意图片的图片素材网站
+- [Pexels](https://www.pexels.com/)：分享免费图片和视频的图片素材网站
+
+图床
+
+- [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费，建议开启图片压缩功能，可加快访问速度，减少流量（如果使用自定义图床）。[中文教程](https://sspai.com/post/34756)
+- [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具
 - [SMMS](https://sm.ms/)：一个免费的在线图床网站，现可以管理已上传的图片（2019.8.3）
 - [PicGo](https://molunerfinn.com/PicGo/)：图片上传和管理的图床客户端，支持 macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
-- [carbon](https://carbon.now.sh/): 将代码块转换为图片的网站
-- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator)：一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
-- [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)-->
 
 ## PC App
 
@@ -144,6 +156,7 @@
 - [Snapseed](https://snapseed.online/)：一款 Google 出品的免费修图 App，功能强大，容易上手
 - [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
 - [Rosetta Stone](https://www.rosettastone.com/)：主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，Android 破解版 [看这里](https://pan.baidu.com/s/1bfgIySxTG6d7xkjs4oiLJw)（提取码: um3h），[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
+- [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 
 ## 小程序
 
