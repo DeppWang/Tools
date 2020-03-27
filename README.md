@@ -134,6 +134,7 @@
 - [carbon](https://carbon.now.sh/): 将代码块转换为图片的网站
 - [Graphviz](http://www.graphviz.org/)：一个利用脚本生成各种类型图表的软件。[中文教程](https://www.ibm.com/developerworks/cn/aix/library/au-aix-graphviz/index.html)
 - [FlipaClip](https://support.flipaclip.us/)：一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
+- [GIPHY CAPTURE](https://giphy.com/apps/giphycapture)：一款 macOS 上的免费 GIF 生成工具
 
 素材
 
