@@ -1,6 +1,6 @@
 # 酷软趣站
 
-🔧 个人常用生产力工具推荐：涉及 macOS/Windows/iOS/Android/Chrome 等。可能未即时更新，可关注 GitHub：https://github.com/DeppWang/Tools
+🔧 个人常用生产力工具推荐：涉及 macOS/Windows/iOS/Android/Chrome 等。
 
 ## 目录
 
@@ -67,7 +67,6 @@
 - [健身宝典](https://www.wandoujia.com/apps/399479)：一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
 - [My GitHub](http://www.appchina.com/app/me.majiajie.mygithub)：一款查看个人 GitHub 的 App
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)：一款查看 GitHub 热门项目（Trending）的 Android 客户端
-  <!--[Auto.js](https://hyb1996.github.io/AutoJs-Docs/#/): Android 平台上不需要 Root 权限的 JavaScript 自动化软件，可用于开发自动收取蚂蚁森林能量等操作。[GitHub 地址](https://github.com/hyb1996/Auto.js)-->
 - [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
 ## Alfred3 Workflows
@@ -81,7 +80,7 @@
 - [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/)：快捷查询 Dash API
 - [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)：不打开网页搜索 Stack Overflow，并得到结果
 - [V2EX](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/V2EX.alfredworkflow)：获取 V2EX 最新、最热文章
-- [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本地 ip、外网 ip
+- [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本机内网 ip、外网 ip
 - [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
 
 ## PopClip Extensions
@@ -106,7 +105,6 @@
 - [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck)：自定义 Chrome 没有的快捷键，如关闭其他标签页
 - [Ghostery](https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)：自动学习去阻止不可见的追踪器，有时候容易引起未知错我
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：格式化 URL 接口数据为 JSON 格式的插件
-  <!--[Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk?utm_source=chrome-ntp-icon) ：一个可以下载网页上视频的插件-->
 
 ## 油猴脚本
 
