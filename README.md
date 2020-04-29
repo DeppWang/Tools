@@ -43,6 +43,7 @@
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，设置选择「高清屏 ( Retina) 下截取 1X 大小图片」
+- [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
