@@ -27,7 +27,7 @@
 ## 必备
 
 - [Typora](https://www.typora.io/)：简洁、好用、所见即所写的 Markdown 客户端编辑器
-- [奇妙清单](https://www.wunderlist.com/zh/)：基于云端工作的任务管理（to-do-list）应用软件
+- [Microsoft To Do](https://todo.microsoft.com/tasks/)：基于云端工作的任务管理（to-do-list）应用软件，目前没有原来 [奇妙清单](https://www.wunderlist.com/zh/) 好用。
 - [SSR](https://netboost.co/login?referrer=user)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
 - [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
 
@@ -61,7 +61,7 @@
 - [Working Copy](https://workingcopyapp.com/)：一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：听 VOA 慢速/快速英语的 iOS 客户端，免费
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720)：电话短信防骚扰 App，免费
-- [2 岁学说话]([https://apps.apple.com/cn/app/2%E5%B2%81%E5%AD%A6%E8%AF%B4%E8%AF%9D/id1198927798](https://apps.apple.com/cn/app/2岁学说话/id1198927798))：「听音识图」的英语学习 APP
+- [2 岁学说话](https://apps.apple.com/cn/app/2岁学说话/id1198927798)：「听音识图」的英语学习 APP
 
 ## Android
 
@@ -117,7 +117,6 @@
 ## 写作
 
 - [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
-- [有道云笔记](https://note.youdao.com/)：支持 MarkDown，实时同步笔记的多客户端软件
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：介绍一些中文文档排版时的规范和技巧的 wiki
 - [OpenWrite](https://www.openwrite.cn/): 将文章一键分发到多个科技平台上的工具，[中文教程](https://mp.weixin.qq.com/s/Tc0UtDwixLrJqgjwDzM9UQ)
 - [Markdown Nice](https://www.mdnice.com/)：美观的公众号在线排版工具
