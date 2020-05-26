@@ -26,7 +26,7 @@
 
 ## 必备
 
-- [Typora](https://www.typora.io/)：简洁、好用、所见即所写的 Markdown 客户端编辑器
+- [Typora](https://www.typora.io/)：简洁、好用、所见即所写的 Markdown 客户端编辑器。可以使用 [Dropbox](https://www.dropbox.com/) + [MWeb](https://www.mweb.im/) 实现全平台同步
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)：基于云端工作的任务管理（to-do-list）应用软件，目前没有原来 [奇妙清单](https://www.wunderlist.com/zh/) 好用。
 - [V2rayU](https://github.com/yanue/V2rayU)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
 - [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
@@ -36,14 +36,14 @@
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
 - [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
+- [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
+- [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-- [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，设置选择「高清屏 ( Retina) 下截取 1X 大小图片」
-- [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
@@ -105,7 +105,7 @@
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：打开 Google 翻译翻译网页所选文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 - [彩云小译](https://fanyi.caiyunapp.com/#/web)：双语对照网页翻译插件
 - [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck)：自定义 Chrome 没有的快捷键，如关闭其他标签页
-- [Ghostery](https://chrome.google.com/webstore/detail/ghostery-–-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij)：自动学习去阻止不可见的追踪器，有时候容易引起未知错我
+- [隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)：自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon)：格式化 URL 接口数据为 JSON 格式的插件
 
 ## 油猴脚本
@@ -117,7 +117,7 @@
 
 ## 写作
 
-- [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器
+- [Tyropa](https://www.typora.io/): 简洁、好用、所见即所写的 Markdown 客户端编辑器。可以使用 Dropbox + MWeb 实现全平台同步
 - [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)：介绍一些中文文档排版时的规范和技巧的 wiki
 - [OpenWrite](https://www.openwrite.cn/): 将文章一键分发到多个科技平台上的工具，[中文教程](https://mp.weixin.qq.com/s/Tc0UtDwixLrJqgjwDzM9UQ)
 - [Markdown Nice](https://www.mdnice.com/)：美观的公众号在线排版工具
@@ -192,7 +192,7 @@
 - [I Tell You](http://msdn.itellyou.cn/)：一个 Windows 原版软件下载站点
 - [Server酱](http://sc.ftqq.com/3.version)：一款从服务器推报警和日志到手机的工具
 - [TeamViewer](https://www.teamviewer.cn/cn/)：一款远程操控的软件，比 QQ 远程操控功能强大
-- [PDF 拆分](https://smallpdf.com/split-pdf)：一个免费拆分 PDF 的网站
+- [Smallpdf](https://smallpdf.com/split-pdf)：一个免费拆分 PDF 的网站
 
 ## 延伸阅读
 
