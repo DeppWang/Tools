@@ -1,6 +1,6 @@
 # 酷软趣站
 
-🔧 个人常用生产力工具推荐：涉及 macOS/Windows/iOS/Android/Chrome 等。
+🔧 个人常用生产力工具推荐：涉及 macOS/iOS/Chrome/Alfred 等。
 
 ## 目录
 
@@ -39,11 +39,12 @@
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
+- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，设置选择「高清屏 ( Retina) 下截取 1X 大小图片」
+- [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)：Mac 版微信的功能拓展，[开启 Alfred 有被攻击的风险](https://xlab.tencent.com/cn/2018/10/23/weixin-cheater-risks/)。
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
 - [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦。收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
-- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，设置选择「高清屏 ( Retina) 下截取 1X 大小图片」
 - [Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)
 
 ## Windows
@@ -187,6 +188,7 @@
 
 ## 网站
 
+- [ZLibrary](https://b-ok.cc/)：世界上最大的电子图书馆
 - [RecordScreen.io](https://recordscreen.io/)：一款只需浏览器便可一键录屏的神器。[中文教程](https://mp.weixin.qq.com/s/n3xwbwrEP3fC7KW5HEeDRQ)
 - [FACE YOURMAGA](https://www.faceyourmanga.com/)：一个自己 DIY 制造卡通头像的网站
 - [I Tell You](http://msdn.itellyou.cn/)：一个 Windows 原版软件下载站点
@@ -198,3 +200,4 @@
 
 - [如何打造一个程序员专属的 Mac 开发环境？](https://mp.weixin.qq.com/s/b5fQAh7aoq6RKWXEpkzZpQ)
 - [开发效率提升：Mac 生产力工具链推荐](https://github.com/Louiszhai/tool/)
+
