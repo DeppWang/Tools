@@ -36,6 +36,7 @@
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
 - [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、复制、剪贴、删除、翻译、发音等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
+- [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg)：可打开小程序，可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
@@ -85,7 +86,7 @@
 - [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本机内网 ip、外网 ip
 - [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
 
-## PopClip Extensions
+## Popclip Extensions
 
 - [PopClip Extensions 官网](https://pilotmoon.com/popclip/extensions/)
 - [Google-Translate](https://github.com/thang-nm/Google-Translate.popclipext)：不打开网页，查询更快的翻译插件
