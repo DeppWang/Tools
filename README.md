@@ -65,7 +65,7 @@
 
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)：一个漂亮实用的 iOS GitHub 客户端，收费 18 元
 - [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846)：iOS 上的剪贴板神奇
-- [MWeb](https://apps.apple.com/us/app/mweb/id1403919533?mt=12)：iOS 上的 MorkDown 编辑器，MWeb + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
+- [MWeb](https://apps.apple.com/us/app/mweb/id1403919533)：iOS 上的 MorkDown 编辑器，MWeb + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
 - [Working Copy](https://workingcopyapp.com/)：一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720)：电话短信防骚扰 App，免费
 
