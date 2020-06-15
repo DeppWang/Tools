@@ -11,8 +11,6 @@
 - [Windows](#Windows)
 - [iOS](#iOS)
 - [Android](#Android)
-- [Alfred3 Workflows](#Alfred3-Workflows)
-- [Popclip Extensions](#Popclip-Extensions)
 - [Chrome Extensions](#Chrome-Extensions)
 - [油猴脚本](#油猴脚本)
 - [英语](#英语)
@@ -49,6 +47,24 @@
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 
+### Alfred3 Workflows
+
+- [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
+- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)：提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
+- [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)：截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
+- [alfred-google-translate](https://github.com/xfslove/alfred-google-translate)：基于 Google 翻译 API 的翻译插件，无需打开网页
+- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow)：集翻译、发音、添加单词本、复制剪贴板功能一体
+- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：查看常用的 emoji
+- [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/)：快捷查询 Dash API
+- [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)：不打开网页搜索 Stack Overflow，并得到结果
+- [V2EX](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/V2EX.alfredworkflow)：获取 V2EX 最新、最热文章
+- [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本机内网 ip、外网 ip
+- [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
+
+### Popclip Extensions
+
+- [个人常用 Extensions](https://github.com/DeppWang/PopClip-Extensions)
+
 <!--[Pock](https://pock.dev/)：一个让 Touch Bar 「变废为宝」（显示 Dock）的免费小工具。[GitHub 地址](https://github.com/pigigaldi/Pock)-->
 
 <!--收费，Parallels Desktop 13 [破解视频教程（YouTube）](https://www.youtube.com/watch?v=SiU7TO1qg8c)，[备用下载地址（Google Drive）](https://drive.google.com/file/d/1zw7heuNf6I_Udrbz--fA54z7xS28bctB/view?usp=sharing)-->
@@ -66,7 +82,7 @@
 ## iOS
 
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521)：一个漂亮实用的 iOS GitHub 客户端，收费 18 元
-- [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846)：iOS 上的剪贴板神奇
+- [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846)：iOS 上的剪贴板神器
 - [MWeb](https://apps.apple.com/us/app/mweb/id1403919533)：iOS 上的 MorkDown 编辑器，MWeb + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
 - [Working Copy](https://workingcopyapp.com/)：一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720)：电话短信防骚扰 App，免费
@@ -77,27 +93,6 @@
 - [My GitHub](https://mygithub.app/)：一款查看个人 GitHub 的 App
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub)：一款查看 GitHub 热门项目（Trending）的 Android 客户端
 - [AIDE](https://www.android-ide.com/)：一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
-
-## Alfred3 Workflows
-
-- [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
-- [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow)：提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
-- [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)：截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
-- [alfred-google-translate](https://github.com/xfslove/alfred-google-translate)：基于 Google 翻译 API 的翻译插件，无需打开网页
-- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow)：集翻译、发音、添加单词本、复制剪贴板功能一体
-- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow)：查看常用的 emoji
-- [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/)：快捷查询 Dash API
-- [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow)：不打开网页搜索 Stack Overflow，并得到结果
-- [V2EX](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/V2EX.alfredworkflow)：获取 V2EX 最新、最热文章
-- [ip-address](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/ip-address.alfredworkflow)：查看本机内网 ip、外网 ip
-- [Workflow Sercher](https://github.com/DeppWang/Tools/raw/master/Alfred-Workflows/Workflow-Searcher.alfredworkflow)：搜索下载 alfredworkflow.com 上的 Workflow
-
-## Popclip Extensions
-
-- [PopClip Extensions 官网](https://pilotmoon.com/popclip/extensions/)
-- [个人常用 Extensions](https://github.com/DeppWang/PopClip-Extensions)
-- [Google-Translate](https://github.com/thang-nm/Google-Translate.popclipext)：不打开网页，查询更快的翻译插件
-- [DuckDuckGo](https://pilotmoon.com/popclip/extensions/page/DuckDuckGo)：直接使用 DuckDuckGo 搜索
 
 ## Chrome Extensions
 
@@ -145,7 +140,7 @@
 
 ## 图片
 
-绘图
+### 绘图
 
 - [Excalidraw](https://excalidraw.com/)：一个非常简单易用的白板绘图开源工具 
 - [draw.io](https://www.draw.io/)：一个支持流程图、思维导图、原型图、UML、网络拓扑图、组织结构图等的在线画图网站
@@ -156,13 +151,13 @@
 - [GIPHY CAPTURE](https://giphy.com/apps/giphycapture)：一款 macOS 上的免费 GIF 生成工具
 - [RecordScreen.io](https://recordscreen.io/)：一款只需浏览器便可一键录屏的神器。[中文教程](https://mp.weixin.qq.com/s/n3xwbwrEP3fC7KW5HEeDRQ)
 
-素材
+### 素材
 
 - [Behance](https://www.behance.net/)：主要是各种插画创意图片的图片素材网站
 - [Pexels](https://www.pexels.com/)：分享免费图片和视频的图片素材网站
 - [Yandex Images](https://yandex.com/images/)：比 Google Images 质量更高的图片搜索引擎
 
-图床
+### 图床
 
 - [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12)：针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费，建议开启图片压缩功能，可加快访问速度，减少流量（如果使用自定义图床）。[中文教程](https://sspai.com/post/34756)
 - [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12)：iPic 作者开发的博客图片迁移工具
