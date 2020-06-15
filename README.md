@@ -2,6 +2,8 @@
 
 🔧 个人常用生产力工具推荐：涉及 macOS/iOS/Chrome/Alfred 等。
 
+<!--可能未即时更新，可关注 GitHub：https://github.com/DeppWang/Tools -->
+
 ## 目录
 
 - [必备](#必备)
