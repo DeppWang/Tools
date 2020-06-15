@@ -1,1 +1,1 @@
-cp ./README.md ../../HexoBlog/source/tools/index.md
+cp ../README.md ../../HexoBlog/source/tools/index.md
