@@ -11,7 +11,7 @@
 - [Android](#Android)
 - [Alfred3 Workflows](#Alfred3-Workflows)
 - [Popclip Extensions](#Popclip-Extensions)
-- [Chrome 插件](#Chrome-插件)
+- [Chrome Extensions](#Chrome-Extensions)
 - [油猴脚本](#油猴脚本)
 - [英语](#英语)
 - [写作](#写作)
@@ -97,7 +97,7 @@
 - [Google-Translate](https://github.com/thang-nm/Google-Translate.popclipext)：不打开网页，查询更快的翻译插件
 - [DuckDuckGo](https://pilotmoon.com/popclip/extensions/page/DuckDuckGo)：直接使用 DuckDuckGo 搜索
 
-## Chrome 插件
+## Chrome Extensions
 
 - [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)：将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
 - [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon) ：广告拦截插件
@@ -173,17 +173,22 @@
 - [鸠摩搜书](https://www.jiumodiary.com/)：一个能搜索全网电子书的网站
 - [Medium](https://medium.com/)：一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有 iOS、Android 客户端
 - [西窗烛](http://www.xcz.im/)：一个体会诗词之美的 App
+- [TECHURLS](https://techurls.com/)：阅读各大科技平台最热新闻
+- [Hacker News](https://news.ycombinator.com/news)：简写 HN，了解 Hacker 关心的问题
+- [Product Hunt](https://www.producthunt.com/)：了解最新奇、最好玩的科技产品
 
 ## 问答
 
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5)：一个学习了解常见知识的的问答网站
+- [Quora](https://www.quora.com/)：知乎模仿的对象
+- [Reddit](https://www.reddit.com/)：也是知乎模仿的对象
 - [Stack Overflow](https://stackoverflow.com/)：一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/)：一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
 
 ## 视频
 
 - [疯狂影视搜索](http://ifkdy.com/)：一个能搜索全网影视资源的网站
-- [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的好 App
+- [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的 App
 - [VLLO](https://www.google.com/search?q=VLLO)：一款功能强大，操作简单的视频剪辑 App
 - [VUE](https://vuevideo.net/)：一个精品短视频社区
 
