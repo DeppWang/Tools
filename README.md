@@ -2,7 +2,7 @@
 
 🔧 个人常用生产力工具推荐：涉及 macOS/iOS/Chrome/Alfred 等。
 
-<!--可能未即时更新，可关注 GitHub：https://github.com/DeppWang/Tools -->
+查看最新更新，可关注 GitHub：https://github.com/DeppWang/Tools
 
 ## 目录
 
@@ -76,7 +76,7 @@
 - [Wox](http://wox.one)：针对 Windows 的效率启动器，相当于 macOS 的 [Alfred](https://www.alfredapp.com/)。[GitHub 地址](https://github.com/Wox-launcher/Wox)、[中文教程](https://depp.wang/2018/09/17/IDEA-ShadowsocksR-Wunderlist-Wox/#Wox%EF%BC%88Windows%E6%95%88%E7%8E%87%E5%90%AF%E5%8A%A8%E5%99%A8%EF%BC%89)
 - [Everthing](https://www.voidtools.com/zh-cn/)：基于名称快速定位文件和文件夹的软件，可配合 Wox 使用
 - [火绒](https://www.huorong.cn/)：轻量、无广告电脑安全软件，相比 360、腾讯，体验更好
-- [分流抢票](https://www.bypass.cn/)：集预约和捡漏的免费 Windows 客户端抢票软件，无套路，不用加速包，抢票率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
+- [分流抢票](https://www.bypass.cn/)：集预约和捡漏的免费 Windows 客户端抢票软件，无套路，不用加速包，成功率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
 - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab)：微软全新命令行工具。[教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)、[GitHub 地址](https://github.com/microsoft/terminal)
 
 ## iOS
