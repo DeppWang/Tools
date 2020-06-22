@@ -123,6 +123,7 @@
 ## 英语
 
 - [Merriam-Webster](https://www.merriam-webster.com/apps)：美观实用的英英字典
+- [巴别英语](https://www.babelabc.com/)：刷视频学口语 , 英语学习神器
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：可读每日一句、每日新闻的英语学习 iOS APP，免费，大量用户打卡
 - [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Andriod App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 - [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
