@@ -129,6 +129,7 @@
 - [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
 - [Rosetta Stone](https://www.rosettastone.com/)：主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，Android 破解版 [看这里](https://pan.baidu.com/s/1bfgIySxTG6d7xkjs4oiLJw)（提取码: um3h），[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
 - [2 岁学说话](https://apps.apple.com/cn/app/2岁学说话/id1198927798)：「听音识图」的英语学习 APP
+- [叽里呱啦](https://www.jiliguala.com/)：有趣的少儿英语学习 APP
 
 ## 写作
 
