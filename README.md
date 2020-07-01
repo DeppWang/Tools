@@ -44,6 +44,7 @@
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
 - [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
+- [Toolbox](https://www.jetbrains.com/toolbox-app/)：一个同步 Jetbrains 开发环境配置的工具
 
 ### Alfred3 Workflows
 
@@ -193,6 +194,7 @@
 
 - [网易 Mumu](http://mumu.163.com/)：网易出品的安卓模拟器
 - [TeamViewer](https://www.teamviewer.cn/cn/)：一款远程操控的软件，比 QQ 远程操控功能强大
+- 
 
 ## App
 
