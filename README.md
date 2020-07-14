@@ -27,23 +27,24 @@
 
 - [Typora](https://www.typora.io/)：简洁、好用、所见即所写的 Markdown 客户端编辑器。可以使用 [Dropbox](https://www.dropbox.com/) + [MWeb](https://www.mweb.im/) 实现全平台同步
 - [Microsoft To Do](https://todo.microsoft.com/tasks/)：基于云端工作的任务管理（to-do-list）应用软件，目前没有原来 [奇妙清单](https://www.wunderlist.com/zh/) 好用
-- [V2rayU](https://github.com/yanue/V2rayU)： 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
-- [LastPass](https://www.lastpass.com/)：全平台同步密码，iOS 版美区 id 可下载，自动填充很实用。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
+- [V2rayU](https://github.com/yanue/V2rayU)：科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
+- [LastPass：](https://www.lastpass.com/)全平台同步密码，iOS 版美区 id 可下载，自动填充很实用。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
 
 ## macOS
 
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
-- [Popclip](https://pilotmoon.com/popclip/): 可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
+- [HyperSwitch](https://bahoom.com/hyperswitch)：窗口切换工具，使用 `Cmd + Tab` 代替「三指上划」，非常实用
+- [Popclip：](https://pilotmoon.com/popclip/)可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS)：可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Go2Shell](https://zipzapmac.com/go2shell)：可以在 Finder 里快速进入 shell 环境
 - [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12)：可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12)：定时黑屏提醒休息的工具
-- [Parallels Desktop](https://www.parallels.com/products/desktop/): macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
-- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/): 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
+- [Parallels Desktop：](https://www.parallels.com/products/desktop/) macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
+- [NeatDownloadManager：](https://www.neatdownloadmanager.com/index.php/en/)针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Xnip](http://zh.xnipapp.com/)：一个可在 macOS 上长截屏的免费小工具
-- [Dash](https://kapeli.com/dash): 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
+- [Dash](https://kapeli.com/dash)可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Toolbox](https://www.jetbrains.com/toolbox-app/)：一个同步 Jetbrains 开发环境配置的工具
 
 ### Alfred3 Workflows
