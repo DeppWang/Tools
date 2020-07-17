@@ -34,7 +34,7 @@
 
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
-- [HyperSwitch](https://bahoom.com/hyperswitch)：窗口切换工具，可使用 `Cmd + Tab` 代替「三指上划」切换所有应用窗口，可使用 ``Cmd + ` `` 切换当前应用窗口，非常实用 
+- [HyperSwitch](https://bahoom.com/hyperswitch)：窗口切换工具，可使用 `Cmd + Tab` 代替「三指上划」切换所有应用窗口，可使用 ``Cmd + ` `` 切换当前应用窗口，非常实用。注意一定要是最新版本，目前最新版本为 0.2.591-dev (2020.7.17)。 [备用下载](https://www.macupdate.com/app/mac/41769/hyperswitch)
 - [Popclip：](https://pilotmoon.com/popclip/)可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS)：可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
@@ -105,6 +105,7 @@
 - [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc)：将 GitHub 项目代码以目录的层次展示。[GitHub 地址](https://github.com/ovity/octotree)
 - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon) ：俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
 - [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en)：像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好
+- [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm)：一个复制浏览器 URL 的插件，辅助全屏操作
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) ：将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)：打开 Google 翻译翻译网页所选文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 - [彩云小译](https://fanyi.caiyunapp.com/#/web)：双语对照网页翻译插件
@@ -123,10 +124,14 @@
 ## 英语
 
 - [Merriam-Webster](https://www.merriam-webster.com/apps)：美观实用的英英字典
-- [巴别英语](https://www.babelabc.com/)：刷视频学口语 , 英语学习神器
+- [欧路词典](https://www.eudic.net/v4/en/app/eudic)：干净、简洁的词典
+- [Etymonline](https://www.etymonline.com/)：一个查询单词起源、历史的词典，可查询单词起源、历史，用于词根记忆。
+- [每日英语听力](http://dict.eudic.net/ting/)：欧路词典出品的英语听力 APP，免费，干净，内容丰富。可切换英音、美音，可默认发音，译文开闭可调，可测评。
+- [轻听英语](https://langeasy.com.cn/)：UI 特别优秀的英语听力 APP
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090)：可读每日一句、每日新闻的英语学习 iOS APP，免费，大量用户打卡
 - [VOA 慢速英语](https://www.wandoujia.com/apps/27475)：一款可语音测评的 VOA 慢速英语 Andriod App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 - [翻译](https://translate.google.cn/)：一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
+- [巴别英语](https://www.babelabc.com/)：刷视频学口语 , 英语学习神器
 - [Rosetta Stone](https://www.rosettastone.com/)：主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，Android 破解版 [看这里](https://pan.baidu.com/s/1bfgIySxTG6d7xkjs4oiLJw)（提取码: um3h），[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
 - [2 岁学说话](https://apps.apple.com/cn/app/2岁学说话/id1198927798)：「听音识图」的英语学习 APP
 - [叽里呱啦](https://www.jiliguala.com/)：有趣的少儿英语学习 APP
@@ -187,6 +192,7 @@
 ## 视频
 
 - [疯狂影视搜索](http://ifkdy.com/)：一个能搜索全网影视资源的网站
+- [一席](https://yixi.tv/[)：「听君一席话」，听有深度的演讲、看有思考的视频
 - [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的 App
 - [VLLO](https://www.google.com/search?q=VLLO)：一款功能强大，操作简单的视频剪辑 App
 - [VUE](https://vuevideo.net/)：一个精品短视频社区
@@ -195,7 +201,6 @@
 
 - [网易 Mumu](http://mumu.163.com/)：网易出品的安卓模拟器
 - [TeamViewer](https://www.teamviewer.cn/cn/)：一款远程操控的软件，比 QQ 远程操控功能强大
-- 
 
 ## App
 
