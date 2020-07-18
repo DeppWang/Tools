@@ -34,7 +34,7 @@
 
 - [Alfred](https://www.alfredapp.com/)：针对 macOS 的效率启动器，具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/): 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
-- [HyperSwitch](https://bahoom.com/hyperswitch)：窗口切换工具，可使用 `Cmd + Tab` 代替「三指上划」切换所有应用窗口，可使用 ``Cmd + ` `` 切换当前应用窗口，非常实用。注意一定要是最新版本，目前最新版本为 0.2.591-dev (2020.7.17)。 [备用下载](https://www.macupdate.com/app/mac/41769/hyperswitch)
+- [HyperSwitch](https://bahoom.com/hyperswitch)：窗口切换工具，可使用 `Cmd + Tab` 代替「三指上划」切换所有应用窗口，可使用 ``Cmd + ` `` 切换当前应用窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下。
 - [Popclip：](https://pilotmoon.com/popclip/)可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS)：可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer)：一个管理「人满为患」的顶部菜单栏图标的开源免费工具
