@@ -191,6 +191,7 @@
 
 ## 视频
 
+- [IINA](https://iina.io/)：MAC 下简洁好用的视频播放器
 - [疯狂影视搜索](http://ifkdy.com/)：一个能搜索全网影视资源的网站
 - [一席](https://yixi.tv/[)：「听君一席话」，听有深度的演讲、看有思考的视频
 - [人人视频](https://rr.tv/)：一个看美剧/韩剧/日剧/泰剧的 App
@@ -199,6 +200,7 @@
 
 ## PC App
 
+- [Spark](https://sparkmailapp.com/)：免费好用的邮件客户端
 - [网易 Mumu](http://mumu.163.com/)：网易出品的安卓模拟器
 - [TeamViewer](https://www.teamviewer.cn/cn/)：一款远程操控的软件，比 QQ 远程操控功能强大
 
