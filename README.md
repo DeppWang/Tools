@@ -38,7 +38,8 @@
 - [Popclip](https://pilotmoon.com/popclip/) - 可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS) - 可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
-- [Go2Shell](https://zipzapmac.com/go2shell) - 可以在 Finder 里快速进入 shell 环境
+- [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 shell 环境
+- [Hazel](https://www.noodlesoft.com/) - 升级版 Automator
 - [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的免费小工具
 - [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12) - 可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」
 - [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
@@ -199,8 +200,8 @@
 ## 问答
 
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
-- [Quora](https://www.quora.com/) - 知乎模仿的对象
-- [Reddit](https://www.reddit.com/) - 也是知乎模仿的对象
+- [Reddit](https://www.reddit.com/) - 知乎模仿的对象
+- [Quora](https://www.quora.com/) - 也是知乎模仿的对象
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/) - 一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
 
