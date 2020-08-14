@@ -204,6 +204,7 @@
 - [Quora](https://www.quora.com/) - 也是知乎模仿的对象
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/) - 一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
+- [v2ex](https://v2ex.com) - 简称 v 站，创意工作者们的社区
 
 ## 视频
 
