@@ -90,6 +90,7 @@
 - [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846) - iOS 上的剪贴板神器
 - [50 音起源](https://apps.apple.com/cn/app/50%E9%9F%B3%E8%B5%B7%E6%BA%90/id1439222882) - 设计出色的日语学习 APP
 - [MWeb](https://apps.apple.com/us/app/mweb/id1403919533) - iOS 上的 MorkDown 编辑器，MWeb + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
+- [语音报时闹钟](https://apps.apple.com/cn/app/语音报时闹钟/id1234580156) - 支持整点报时、半点报时、自定义任意时刻报时、间隔无限报时、倒计时等等
 - [Working Copy](https://workingcopyapp.com/) - 一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720) - 电话短信防骚扰 App，免费
 
