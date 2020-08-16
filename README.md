@@ -29,7 +29,7 @@
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - 基于云端工作的任务管理（to-do-list）应用软件，目前没有原来 [奇妙清单](https://www.wunderlist.com/zh/) 好用
 - [V2rayU](https://github.com/yanue/V2rayU) - 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
 - [LastPass](https://www.lastpass.com/) - 全平台同步密码，iOS 版美区 id 可下载，自动填充很实用。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
-- [联通沃助理](http://iservice.10010.com/e4/transact/missedcallnew/missedcall.html) - 可漏话提醒、语音留言、智能应答，可微信搜索「沃助理」开通。本质上是利用来电转移功能。
+- [联通沃助理](http://iservice.10010.com/e4/transact/missedcallnew/missedcall.html) - 可漏话提醒、语音留言、智能应答，可微信搜索「沃助理」开通。本质上是利用来电转移功能
 
 ## macOS
 
