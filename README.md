@@ -56,10 +56,11 @@
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) - 截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
 - [alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - 基于 Google 翻译 API 的翻译插件，无需打开网页
 - [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) - 集翻译、发音、添加单词本、复制剪贴板功能一体
+- [V2EX](http://github.com/hzlzh/Alfred-Workflows/tree/master/V2EX) - 获取 V2EX 最新、最热文章，[直接下载](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/V2EX.alfredworkflow)
 - [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - 查看常用的 emoji
+- [alfred-pangu-workflow](https://github.com/DeppWang/alfred-pangu-workflow) - 排版剪贴板文字，加上合适的空格，如：中文与英文、数字之间加上空格
 - [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) - 快捷查询 Dash API
 - [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow) - 不打开网页搜索 Stack Overflow，并得到结果
-- [V2EX](http://github.com/hzlzh/Alfred-Workflows/tree/master/V2EX) - 获取 V2EX 最新、最热文章，[直接下载](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/V2EX.alfredworkflow)
 - [ip-address](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/ip-address.alfredworkflow) - 查看本机内网 ip、外网 ip
 
 ### Popclip Extensions
