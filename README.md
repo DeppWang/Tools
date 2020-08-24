@@ -27,7 +27,7 @@
 
 - [Typora](https://www.typora.io/) - 简洁、好用、所见即所写的 Markdown 客户端编辑器。可以使用 [Dropbox](https://www.dropbox.com/) + [MWeb](https://www.mweb.im/) 实现全平台同步
 - [Microsoft To Do](https://todo.microsoft.com/tasks/) - 基于云端工作的任务管理（to-do-list）应用软件，目前没有原来 [奇妙清单](https://www.wunderlist.com/zh/) 好用
-- [V2rayU](https://github.com/yanue/V2rayU) - 科学上网软件，[中文教程](https://github.com/DeppWang/Tools/tree/master/ShadowsocksR)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
+- [V2rayU](https://github.com/yanue/V2rayU) - 科学上网软件，[中文教程](https://github.com/DeppWang/Science-Online)，自建参考 [耗子叔教程](https://github.com/haoel/haoel.github.io)
 - [LastPass](https://www.lastpass.com/) - 全平台同步密码，iOS 版美区 id 可下载，自动填充很实用。也可用 [BitWarden](https://bitwarden.com/)，开源免费，[中文教程](https://mp.weixin.qq.com/s/OKzGh7Jz7RUrG3q5usDjOg)
 - [联通沃助理](http://iservice.10010.com/e4/transact/missedcallnew/missedcall.html) - 可漏话提醒、语音留言、智能应答，可微信搜索「沃助理」开通。本质上是利用来电转移功能
 
@@ -81,7 +81,7 @@
 - [Everthing](https://www.voidtools.com/zh-cn/) - 基于名称快速定位文件和文件夹的软件，可配合 Wox 使用
 - [火绒](https://www.huorong.cn/) - 轻量、无广告电脑安全软件，相比 360、腾讯，体验更好
 - [分流抢票](https://www.bypass.cn/) - 集预约和捡漏的免费 Windows 客户端抢票软件，无套路，不用加速包，成功率高。需要一直后台运行，可以配合 [TeamViewer](https://www.teamviewer.cn/cn/) 远程操控。12306 官方「抢票」功能 --- [候补购票](https://www.12306.cn/mormhweb/zxdt/201905/t20190521_22980.html)
-- [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot%3Aoverviewtab) - 微软全新命令行工具。[教程](https://devblogs.microsoft.com/commandline/windows-terminal-preview-v0-3-release/)、[GitHub 地址](https://github.com/microsoft/terminal)
+- [Windows Terminal](https://github.com/microsoft/terminal/releases) - 微软全新命令行工具
 
 ## iOS
 
@@ -232,11 +232,11 @@
 - [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的 App，也有大量吉他谱
 - [Pocket](https://getpocket.com/) - Pocket APP
 - [彩云天气](https://caiyunapp.com/) - 比较准的简洁的查询天气 APP，[网页端](http://www.caiyunapp.com/map/)
-- [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
 - [Wikipedia](http://wikipedia.org/) - 维基百科 APP
 - [TED](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks) - TED APP
 - [NBA](http://global.nba.com/nba-apps/index.html) - NBA 官方 APP
 - [ESPN](http://www.espn.com/espn/apps/espn) - ESPN APP
+- [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
 
 ## 小程序
 
