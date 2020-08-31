@@ -49,13 +49,14 @@
 - [Toolbox](https://www.jetbrains.com/toolbox-app/) - 一个同步 Jetbrains 开发环境配置的工具
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12) - 定时黑屏提醒休息的工具
 
-### Alfred3 Workflows
+### Alfred Workflows
 
 - [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - 提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) - 截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
 - [alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - 基于 Google 翻译 API 的翻译插件，无需打开网页
 - [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) - 集翻译、发音、添加单词本、复制剪贴板功能一体
+- [Alfred-HackerNews](https://github.com/wangshub/Alfred-HackerNews) - [Hacker News](https://news.ycombinator.com/news) Alfred Workflows
 - [V2EX](http://github.com/hzlzh/Alfred-Workflows/tree/master/V2EX) - 获取 V2EX 最新、最热文章，[直接下载](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/V2EX.alfredworkflow)
 - [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - 查看常用的 emoji
 - [alfred-pangu-workflow](https://github.com/DeppWang/alfred-pangu-workflow) - 排版剪贴板文字，加上合适的空格，如：中文与英文、数字之间加上空格
@@ -197,7 +198,7 @@
 - [Medium](https://medium.com/) - 一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有 iOS、Android 客户端
 - [西窗烛](http://www.xcz.im/) - 一个体会诗词之美的 App，可读史记、红楼梦
 - [TECHURLS](https://techurls.com/) - 阅读各大科技平台最热新闻
-- [Hacker News](https://news.ycombinator.com/news) - 简写 HN，了解 Hacker 关心的问题
+- [Hacker News](https://news.ycombinator.com/news) - 简写 HN，了解 Hacker 关心的问题，一个更好的 [UI](http://hackernews.betacat.io/)
 - [Product Hunt](https://www.producthunt.com/) - 了解最新奇、最好玩的科技产品
 
 ## 问答
