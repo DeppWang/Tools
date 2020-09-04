@@ -86,7 +86,7 @@
 
 ## iOS
 
-- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，收费，科学上网
+- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，科学上网，收费
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521) - 一个漂亮实用的 iOS GitHub 客户端，收费 18 元
 - [Octal](https://apps.apple.com/us/app/octal-hacker-news/id1308885491) - Hacker News 的 iOS 客户端
 - [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846) - iOS 上的剪贴板神器
@@ -105,26 +105,29 @@
 
 ## Chrome Extensions
 
-- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - 将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon)  - 广告拦截插件
-- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)  - LastPass 插件，自动填充账号密码
-- [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
-- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - 夜间模式，适用于任何网站，完全免费。[GitHub 地址](https://github.com/darkreader/darkreader)
+- [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 用于启动 NeatDownloadManager 下载
+- [LastPass](https://lastpass.com/misc_download2.php)  - LastPass 插件，自动填充账号密码
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - 在工具栏查看订阅的 RSS 或 Atom feeds 文章，有 [APP 客户端](https://feeder.co/)
-- [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en) - 像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好，可用 Tab / Shift Tab 上下切换
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 将 GitHub 项目代码以目录的层次展示。[GitHub 地址](https://github.com/ovity/octotree)
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
-- [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm) - 一个复制浏览器 URL 的插件，辅助全屏操作
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  - 将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
-- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 英语输入语法检测与提示
+- [RAINDORP.io](https://raindrop.io/download) - 全平台同步书签
+- [Save to Pocket](https://getpocket.com/add/?ep=1) - 将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
+- [Adblock Plus](https://adblockplus.org/en/download)  - 广告拦截插件
+- [Shortkeys](https://www.shortkeys.app) - 自定义 Chrome 没有的快捷键，如关闭其他标签页
+- [Old School GitHub](https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb) - 还原 GitHub 为旧样式，主要更改为居中显示
+- [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件
+- [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
+- [JSON Formatter](https://github.com/callumlocke/json-formatter) - 格式化 URL 接口数据为 JSON 格式的插件
+- [Octotree](https://github.com/ovity/octotree) - 将 GitHub 项目代码以目录的层次展示
+- [Tampermonkey](https://www.tampermonkey.net/)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
+- [STTF Url Generator](https://github.com/chunliu/sttf-url-generator) - 用于生成打开即可高亮复制内容的链接
+- [Grammarly](https://www.grammarly.com/p) - 浏览器输入框英语输入时语法检测与提示
 - [Readlang Web Reader](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) - 类似 Kindle [Word-Wise](http://amazon.com/gp/feature.html?ie=UTF8&docId=1002989731) 的英语辅助阅读插件
 - [Google Dictionary (by Google)](http://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) - 谷歌字典，可双击或选中英英翻译
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 打开 Google 翻译翻译网页所选文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 - [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译插件
-- [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck) - 自定义 Chrome 没有的快捷键，如关闭其他标签页
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  - 将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
 - [隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - 自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可
-- [STTF Url Generator](http://amazon.com/gp/feature.html?ie=UTF8&docId=1002989731) - 用于生成打开即可高亮复制内容的链接
-- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon) - 格式化 URL 接口数据为 JSON 格式的插件
+- [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - 像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好，可用 Tab / Shift Tab 上下切换，FireFox 可 Ctrl + Tab 直接预览
+- [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm) - 一个复制浏览器 URL 的插件，辅助全屏操作
 
 <!--[Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon)  - 免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端有 Windows 和 macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)-->
 
