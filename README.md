@@ -1,6 +1,6 @@
 # 酷软趣站
 
-🔧 个人常用生产力工具推荐 - 涉及 macOS / iOS / Chrome / Alfred 等。
+🔧 个人常用生产力工具推荐 - 涉及 macOS / iOS / Browser / Alfred 等。
 
 ## 目录
 
@@ -9,7 +9,7 @@
 - [Windows](#Windows)
 - [iOS](#iOS)
 - [Android](#Android)
-- [Chrome Extensions](#Chrome-Extensions)
+- [Browser Extensions](#Browser-Extensions)
 - [油猴脚本](#油猴脚本)
 - [英语](#英语)
 - [写作](#写作)
@@ -103,15 +103,15 @@
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub) - 一款查看 GitHub 热门项目（Trending）的 Android 客户端
 - [AIDE](https://www.android-ide.com/) - 一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
-## Chrome Extensions
+## Browser Extensions
 
 - [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 用于启动 NeatDownloadManager 下载
 - [LastPass](https://lastpass.com/misc_download2.php)  - LastPass 插件，自动填充账号密码
-- [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - 在工具栏查看订阅的 RSS 或 Atom feeds 文章，有 [APP 客户端](https://feeder.co/)
 - [RAINDORP.io](https://raindrop.io/download) - 全平台同步书签
 - [Save to Pocket](https://getpocket.com/add/?ep=1) - 将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
+- [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - 在工具栏查看订阅的 RSS 或 Atom feeds 文章，有 [APP 客户端](https://feeder.co/)
 - [Adblock Plus](https://adblockplus.org/en/download)  - 广告拦截插件
-- [Shortkeys](https://www.shortkeys.app) - 自定义 Chrome 没有的快捷键，如关闭其他标签页
+- [Shortkeys](https://www.shortkeys.app) - 自定义浏览器没有的快捷键，如关闭其他标签页
 - [Old School GitHub](https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb) - 还原 GitHub 为旧样式，主要更改为居中显示
 - [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件
 - [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
