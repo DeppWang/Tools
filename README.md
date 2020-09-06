@@ -2,6 +2,8 @@
 
 🔧 个人常用生产力工具推荐 - 涉及 macOS / iOS / Browser / Alfred 等。
 
+GitHub: https://github.com/DeppWang/Tools
+
 ## 目录
 
 - [必备](#必备)
@@ -112,7 +114,7 @@
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - 在工具栏查看订阅的 RSS 或 Atom feeds 文章，有 [APP 客户端](https://feeder.co/)
 - [Adblock Plus](https://adblockplus.org/en/download)  - 广告拦截插件
 - [Shortkeys](https://www.shortkeys.app) - 自定义浏览器没有的快捷键，如关闭其他标签页
-- [Old School GitHub](https://chrome.google.com/webstore/detail/old-school-github/blkkkhifjoiedclojflfcenbjigdajeb) - 还原 GitHub 为旧样式，主要更改为居中显示
+- [Old School GitHub](https://github.com/daattali/oldschool-github-extension) - 还原 GitHub 为旧样式，主要更改为居中显示
 - [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件
 - [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
 - [JSON Formatter](https://github.com/callumlocke/json-formatter) - 格式化 URL 接口数据为 JSON 格式的插件
@@ -125,9 +127,10 @@
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 打开 Google 翻译翻译网页所选文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 - [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译插件
 - [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  - 将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
-- [隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - 自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可
 - [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - 像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好，可用 Tab / Shift Tab 上下切换，FireFox 可 Ctrl + Tab 直接预览
 - [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm) - 一个复制浏览器 URL 的插件，辅助全屏操作
+
+<!--[隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - 自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可-->
 
 <!--[Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon)  - 免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端有 Windows 和 macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)-->
 
