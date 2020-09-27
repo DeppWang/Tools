@@ -41,8 +41,8 @@
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 shell 环境
 - [Hazel](https://www.noodlesoft.com/) - 升级版 Automator
-- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的免费小工具
-- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12) - 可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」
+- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
+- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12) - 可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」，通过减少像素点来实现，属于有损压缩
 - [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Dash](https://kapeli.com/dash) - 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
@@ -203,12 +203,12 @@
 
 ## 问答
 
-- [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
+- [v2ex](https://v2ex.com) - 简称 v 站，创意工作者们的社区
 - [Reddit](https://www.reddit.com/) - 知乎模仿的对象
 - [Quora](https://www.quora.com/) - 也是知乎模仿的对象
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/) - 一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
-- [v2ex](https://v2ex.com) - 简称 v 站，创意工作者们的社区
+- [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
 
 ## 视频
 
