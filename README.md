@@ -1,6 +1,8 @@
 # 酷软趣站
 
-🔧 个人常用生产力工具推荐 - 涉及 macOS / iOS / Chrome / Alfred 等。
+🔧 个人常用生产力工具推荐 - 涉及 macOS / iOS / Browser / Alfred 等。
+
+GitHub: https://github.com/DeppWang/Tools
 
 ## 目录
 
@@ -9,7 +11,7 @@
 - [Windows](#Windows)
 - [iOS](#iOS)
 - [Android](#Android)
-- [Chrome Extensions](#Chrome-Extensions)
+- [Browser Extensions](#Browser-Extensions)
 - [油猴脚本](#油猴脚本)
 - [英语](#英语)
 - [写作](#写作)
@@ -40,11 +42,11 @@
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS) - 可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 shell 环境
+- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Hazel](https://www.noodlesoft.com/) - 升级版 Automator
 - [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
 - [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12) - 可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」，通过减少像素点来实现，属于有损压缩
 - [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
-- [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Dash](https://kapeli.com/dash) - 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Toolbox](https://www.jetbrains.com/toolbox-app/) - 一个同步 Jetbrains 开发环境配置的工具
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12) - 定时黑屏提醒休息的工具
@@ -53,16 +55,18 @@
 
 - [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - 提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
+- [alfred-raindrop-search](https://github.com/westerlind/alfred-raindrop-search) - RAINDROP 书签搜索
+- [alfred-pocket](https://github.com/fniephaus/alfred-pocket) - Pocket 搜索
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) - 截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
 - [alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - 基于 Google 翻译 API 的翻译插件，无需打开网页
 - [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) - 集翻译、发音、添加单词本、复制剪贴板功能一体
 - [Alfred-HackerNews](https://github.com/wangshub/Alfred-HackerNews) - [Hacker News](https://news.ycombinator.com/news) Alfred Workflows
 - [V2EX](http://github.com/hzlzh/Alfred-Workflows/tree/master/V2EX) - 获取 V2EX 最新、最热文章，[直接下载](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/V2EX.alfredworkflow)
-- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - 查看常用的 emoji
 - [alfred-pangu-workflow](https://github.com/DeppWang/alfred-pangu-workflow) - 排版剪贴板文字，加上合适的空格，如：中文与英文、数字之间加上空格
-- [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) - 快捷查询 Dash API
 - [alfred-stackoverflow](https://github.com/deanishe/alfred-stackoverflow) - 不打开网页搜索 Stack Overflow，并得到结果
 - [ip-address](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/ip-address.alfredworkflow) - 查看本机内网 ip、外网 ip
+- [Dash](https://www.alfredapp.com/blog/productivity/dash-quicker-api-documentation-search/) - 快捷查询 Dash API
+- [alfred-emoji-workflow](https://github.com/carlosgaldino/alfred-emoji-workflow) - 查看常用的 emoji
 
 ### Popclip Extensions
 
@@ -86,7 +90,7 @@
 
 ## iOS
 
-- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，收费，科学上网
+- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，科学上网，收费
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521) - 一个漂亮实用的 iOS GitHub 客户端，收费 18 元
 - [Octal](https://apps.apple.com/us/app/octal-hacker-news/id1308885491) - Hacker News 的 iOS 客户端
 - [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846) - iOS 上的剪贴板神器
@@ -103,28 +107,32 @@
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub) - 一款查看 GitHub 热门项目（Trending）的 Android 客户端
 - [AIDE](https://www.android-ide.com/) - 一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
-## Chrome Extensions
+## Browser Extensions
 
-- [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj) - 将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
-- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus/cfhdojbkjhnklbpkdaibdccddilifddb?utm_source=chrome-ntp-icon)  - 广告拦截插件
-- [LastPass](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon)  - LastPass 插件，自动填充账号密码
-- [为什么你们就是不能加个空格呢？](https://chrome.google.com/webstore/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd/reviews) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件。[GitHub 地址](https://github.com/vinta/pangu.js)
-- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - 夜间模式，适用于任何网站，完全免费。[GitHub 地址](https://github.com/darkreader/darkreader)
+- [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 用于启动 NeatDownloadManager 下载
+- [LastPass](https://lastpass.com/misc_download2.php)  - LastPass 插件，自动填充账号密码
+- [RAINDORP.io](https://raindrop.io/download) - 全平台同步书签
+- [Save to Pocket](https://getpocket.com/add/?ep=1) - 将待阅读的文章加入到 Pocket 中，也可将作为一个保存收藏文章的仓库。Pocket 是一个全平台阅读软件
 - [RSS Feed Reader](https://chrome.google.com/webstore/detail/rss-feed-reader/pnjaodmkngahhkoihejjehlcdlnohgmp) - 在工具栏查看订阅的 RSS 或 Atom feeds 文章，有 [APP 客户端](https://feeder.co/)
-- [Quick Tabs](https://chrome.google.com/webstore/detail/quick-tabs/jnjfeinjfmenlddahdjdmgpbokiacbbb?hl=en) - 像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好，可用 Tab / Shift Tab 上下切换
-- [Octotree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) - 将 GitHub 项目代码以目录的层次展示。[GitHub 地址](https://github.com/ovity/octotree)
-- [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?utm_source=chrome-ntp-icon)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
-- [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm) - 一个复制浏览器 URL 的插件，辅助全屏操作
-- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  - 将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
-- [Grammarly for Chrome](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen) - 英语输入语法检测与提示
+- [Adblock Plus](https://adblockplus.org/en/download)  - 广告拦截插件
+- [Shortkeys](https://www.shortkeys.app) - 自定义浏览器没有的快捷键，如关闭其他标签页
+- [Old School GitHub](https://github.com/daattali/oldschool-github-extension) - 还原 GitHub 为旧样式，主要更改为居中显示
+- [为什么你们就是不能加个空格呢？](https://github.com/vinta/pangu.js) - 自动在网页中所有的中文字和半形的英文、数字、符号之间插入空白的插件
+- [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
+- [JSON Formatter](https://github.com/callumlocke/json-formatter) - 格式化 URL 接口数据为 JSON 格式的插件
+- [Octotree](https://github.com/ovity/octotree) - 将 GitHub 项目代码以目录的层次展示
+- [Tampermonkey](https://www.tampermonkey.net/)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
+- [STTF Url Generator](https://github.com/chunliu/sttf-url-generator) - 用于生成打开即可高亮复制内容的链接
+- [Grammarly](https://www.grammarly.com/p) - 浏览器输入框英语输入时语法检测与提示
 - [Readlang Web Reader](https://chrome.google.com/webstore/detail/readlang-web-reader/odpdkefpnfejbfnmdilmfhephfffmfoh) - 类似 Kindle [Word-Wise](http://amazon.com/gp/feature.html?ie=UTF8&docId=1002989731) 的英语辅助阅读插件
 - [Google Dictionary (by Google)](http://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) - 谷歌字典，可双击或选中英英翻译
 - [Google 翻译](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - 打开 Google 翻译翻译网页所选文字。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#2google%E7%BF%BB%E8%AF%91-%E4%B8%8B%E8%BD%BD)
 - [彩云小译](https://fanyi.caiyunapp.com/#/web) - 双语对照网页翻译插件
-- [Shortkeys](https://chrome.google.com/webstore/detail/shortkeys-custom-keyboard/logpjaacgmcbpdkdchjiaagddngobkck) - 自定义 Chrome 没有的快捷键，如关闭其他标签页
-- [隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - 自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可
-- [STTF Url Generator](http://amazon.com/gp/feature.html?ie=UTF8&docId=1002989731) - 用于生成打开即可高亮复制内容的链接
-- [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=chrome-ntp-icon) - 格式化 URL 接口数据为 JSON 格式的插件
+- [OneTab](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)  - 将 Chrome 打开的浏览器标签合成一个，减少浏览器内存。[中文教程](https://github.com/DeppWang/Tools/tree/master/Chrome-extensions#1onetab-%E4%B8%8B%E8%BD%BD)
+- [Quick Tabs](https://github.com/babyman/quick-tabs-chrome-extension) - 像 IDEA 查看 Recent Files 一样查看 Recent Tabs，全屏操作下使用更好，可用 Tab / Shift Tab 上下切换，FireFox 可 Ctrl + Tab 直接预览
+- [Copy page title and url](https://chrome.google.com/webstore/detail/copy-page-title-and-url/mcnddmglmjbomnfgkehnnblncllkaedm) - 一个复制浏览器 URL 的插件，辅助全屏操作
+
+<!--[隐私獾](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - 自动学习去阻止不可见的追踪器。因为阻止追踪器，有时候阻止第三方登录，此时关闭即可-->
 
 <!--[Free Download Manager](https://chrome.google.com/webstore/detail/free-download-manager/ahmpjcflkgiildlgicmcieglgoilbfdp?utm_source=chrome-ntp-icon)  - 免费的，支持 BT 磁力下载的插件，用于唤起 [客户端](https://www.freedownloadmanager.org/zh/download.htm) 下载。客户端有 Windows 和 macOS。[中文教程](https://github.com/DeppWang/Chrome-extensions#4free-download-manager-%E4%B8%8B%E8%BD%BD)-->
 
@@ -137,8 +145,9 @@
 
 ## 英语
 
-- [Merriam-Webster](https://www.merriam-webster.com/apps) - 美观实用的英英字典
+- [ELSA Speak](https://elsaspeak.com/en/) - 英语发音学习 APP
 - [欧路词典](https://www.eudic.net/v4/en/app/eudic) - 干净、简洁的词典
+- [Merriam-Webster](https://www.merriam-webster.com/apps) - 美观实用的英英字典
 - [Etymonline](https://www.etymonline.com/) - 一个查询单词起源、历史的词典，可查询单词起源、历史，用于词根记忆。
 - [每日英语听力](http://dict.eudic.net/ting/) - 欧路词典出品的英语听力 APP，免费，干净，内容丰富。可切换英音、美音，可默认发音，译文开闭可调，可测评。
 - [轻听英语](https://langeasy.com.cn/) - UI 特别优秀的英语听力 APP
@@ -146,7 +155,6 @@
 - [VOA 慢速英语](https://www.wandoujia.com/apps/27475) - 一款可语音测评的 VOA 慢速英语 Andriod App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
 - [翻译](https://translate.google.cn/) - 一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
 - [巴别英语](https://www.babelabc.com/) - 刷视频学口语，单句重复 / 灵活字幕 / 情境填词
-- [ELSA Speak](https://elsaspeak.com/en/)英语发音学习 APP
 - [英语轻松读](https://tiny4.org/enreader/) - 一款直接显示生词，用于辅助英语阅读的科技新闻阅读 APP
 - [Rosetta Stone](https://www.rosettastone.com/) - 主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
 - [2 岁学说话](https://apps.apple.com/cn/app/2岁学说话/id1198927798) - 「听音识图」的英语学习 APP
@@ -193,13 +201,14 @@
 
 ## 阅读
 
+- [微信读书](https://weread.qq.com/) - 现在可以免费阅读中文正版书籍，墨水版很 nice
 - [ZLibrary](https://b-ok.cc/) - 世界上最大的电子图书馆
 - [鸠摩搜书](https://www.jiumodiary.com/) - 一个能搜索全网电子书的网站
-- [Medium](https://medium.com/) - 一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有 iOS、Android 客户端
 - [西窗烛](http://www.xcz.im/) - 一个体会诗词之美的 App，可读史记、红楼梦
 - [TECHURLS](https://techurls.com/) - 阅读各大科技平台最热新闻
 - [Hacker News](https://news.ycombinator.com/news) - 简写 HN，了解 Hacker 关心的问题，一个更好的 [UI](http://hackernews.betacat.io/)
 - [Product Hunt](https://www.producthunt.com/) - 了解最新奇、最好玩的科技产品
+- [Medium](https://medium.com/) - 一个集众多优秀文章的网站，也是很多技术大牛的写作平台。有 iOS、Android 客户端
 
 ## 问答
 
@@ -209,6 +218,7 @@
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/) - 一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
+
 
 ## 视频
 
@@ -237,6 +247,7 @@
 - [TED](https://www.ted.com/about/programs-initiatives/ted-talks/ways-to-get-ted-talks) - TED APP
 - [NBA](http://global.nba.com/nba-apps/index.html) - NBA 官方 APP
 - [ESPN](http://www.espn.com/espn/apps/espn) - ESPN APP
+- [Speed Test](https://www.speedtest.net/apps) - 好用的网速测试 APP
 - [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
 
 ## 小程序
