@@ -212,7 +212,7 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## 问答
 
-- [v2ex](https://v2ex.com) - 简称 v 站，创意工作者们的社区
+- [V2EX](https://v2ex.com) - 简称 v 站，创意工作者们的社区
 - [Reddit](https://www.reddit.com/) - 知乎模仿的对象
 - [Quora](https://www.quora.com/) - 也是知乎模仿的对象
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
