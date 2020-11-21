@@ -35,18 +35,18 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## macOS
 
-- [Alfred](https://www.alfredapp.com/) - 针对 macOS 的效率启动器。具有网页搜索、翻译、打开网址/软件/浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
+- [Alfred](https://www.alfredapp.com/) - 针对 macOS 的效率启动器。具有网页搜索、翻译、打开网址 / 软件 / 浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
 - [Manico](https://manico.im/) - 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
-- [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换工具。可使用 `Cmd + Tab` 代替「三指上划」切换所有应用窗口，可使用 ``Cmd + ` `` 切换当前应用窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下。
+- [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换工具。可使用 ``Cmd + ` `` 切换当前应用打开的多个窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下。 `Cmd + Tab` 不按打开软件的时间排序，有点方便。
 - [Popclip](https://pilotmoon.com/popclip/) - 可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS) - 可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 shell 环境
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
+- [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12) - 可为每天设置指定个数的计数器，并带有记录功能，我用来记录每天真实工作时长
 - [Hazel](https://www.noodlesoft.com/) - 升级版 Automator
-- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的免费小工具
-- [Snip](https://apps.apple.com/cn/app/snip/id512505421?mt=12) - 可缩小截屏所占内存的截屏软件，「设置」选择「高清屏 ( Retina) 下截取 1X 大小图片」
-- [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上最好用的虚拟机，同时运行 Windows 和 macOS 不是梦
+- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的免费小工具，[自动压缩截屏图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
+- [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上好用的虚拟机，可同时运行 Windows 和 macOS，建议双十一打折时购入
 - [Dash](https://kapeli.com/dash) - 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Toolbox](https://www.jetbrains.com/toolbox-app/) - 一个同步 Jetbrains 开发环境配置的工具
 - [休息一下](https://apps.apple.com/cn/app/%E4%BC%91%E6%81%AF%E4%B8%80%E4%B8%8B-%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E6%8F%90%E9%86%92%E5%B7%A5%E5%85%B7/id1457158844?mt=12) - 定时黑屏提醒休息的工具
@@ -90,7 +90,7 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## iOS
 
-- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，科学上网，收费
+- [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，科学上网 iOS 客户端，需非大陆账号登录下载，收费。如果在 [NetBoost](http://netboost.xyz/register?code=OHKXKxBDEh) 购买账号，NetBoost 会提供共享账号下载
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521) - 一个漂亮实用的 iOS GitHub 客户端，收费 18 元
 - [Octal](https://apps.apple.com/us/app/octal-hacker-news/id1308885491) - Hacker News 的 iOS 客户端
 - [Pin](https://apps.apple.com/cn/app/pin-clipboard-extensions/id1039643846) - iOS 上的剪贴板神器
@@ -146,10 +146,10 @@ GitHub: https://github.com/DeppWang/Tools
 ## 英语
 
 - [ELSA Speak](https://elsaspeak.com/en/) - 英语发音学习 APP
+- [每日英语听力](http://dict.eudic.net/ting/) - 欧路词典出品的英语听力 APP，免费，干净，内容丰富。可切换英音、美音，可默认发音，译文开闭可调，可测评。
 - [欧路词典](https://www.eudic.net/v4/en/app/eudic) - 干净、简洁的词典
 - [Merriam-Webster](https://www.merriam-webster.com/apps) - 美观实用的英英字典
 - [Etymonline](https://www.etymonline.com/) - 一个查询单词起源、历史的词典，可查询单词起源、历史，用于词根记忆。
-- [每日英语听力](http://dict.eudic.net/ting/) - 欧路词典出品的英语听力 APP，免费，干净，内容丰富。可切换英音、美音，可默认发音，译文开闭可调，可测评。
 - [轻听英语](https://langeasy.com.cn/) - UI 特别优秀的英语听力 APP
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090) - 可读每日一句、每日新闻的英语学习 iOS APP，免费，大量用户打卡
 - [VOA 慢速英语](https://www.wandoujia.com/apps/27475) - 一款可语音测评的 VOA 慢速英语 Andriod App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
@@ -171,7 +171,7 @@ GitHub: https://github.com/DeppWang/Tools
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) - 阮一峰出品
 - [OpenWrite](https://www.openwrite.cn/) - 将文章一键分发到多个科技平台上的工具，[中文教程](https://mp.weixin.qq.com/s/Tc0UtDwixLrJqgjwDzM9UQ)
 - [Markdown Nice](https://www.mdnice.com/) - 美观的公众号在线排版工具
-- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator) - 一个丧心病狂的写作软件，停就删稿！[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
+- [themostdangerouswritingapp](https://www.squibler.io/writing-prompt-generator) - 一个停就删稿的写作软件。[GitHub 地址](https://github.com/maebert/themostdangerouswritingapp)
 
 ## 图片
 
@@ -233,7 +233,7 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## PC App
 
-- [Spark](https://sparkmailapp.com/) - 免费好用的邮件客户端
+- [Spark](https://sparkmailapp.com/) - macOS 上免费好用的邮件客户端
 - [网易 Mumu](http://mumu.163.com/) - 网易出品的安卓模拟器
 - [TeamViewer](https://www.teamviewer.cn/cn/) - 一款远程操控的软件，比 QQ 远程操控功能强大
 
@@ -257,10 +257,10 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## 网站
 
+- [慢慢买](https://tool.manmanbuy.com/) - 查询商品历史价格
 - [FACE YOURMAGA](https://www.faceyourmanga.com/) - 一个自己 DIY 制造卡通头像的网站
 - [汉字源](https://hanziyuan.net/) - 一个学习汉字起源的网站
 - [I Tell You](http://msdn.itellyou.cn/) - 一个 Windows 原版软件下载站点
-- [慢慢买](https://tool.manmanbuy.com/) - 查询商品历史价格
 - [Server酱](http://sc.ftqq.com/3.version) - 一款从服务器推报警和日志到手机的工具
 
 <!--[Smallpdf](https://smallpdf.com/split-pdf) - 一个免费拆分 PDF 的网站-->
