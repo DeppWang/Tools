@@ -19,8 +19,8 @@ GitHub: https://github.com/DeppWang/Tools
 - [阅读](#阅读)
 - [问答](#问答)
 - [视频](#视频)
-- [PC App](#PC-App)
-- [App](#App)
+- [PC APP](#PC-APP)
+- [APP](#APP)
 - [小程序](#小程序)
 - [网站](#网站)
 - [延伸阅读](#延伸阅读)
@@ -35,17 +35,17 @@ GitHub: https://github.com/DeppWang/Tools
 
 ## macOS
 
-- [Alfred](https://www.alfredapp.com/) - 针对 macOS 的效率启动器。具有网页搜索、翻译、打开网址 / 软件 / 浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
-- [Manico](https://manico.im/) - 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
-- [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换工具。可使用 ``Cmd + ` `` 切换当前应用打开的多个窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下。 `Cmd + Tab` 不按打开软件的时间排序，有点方便。
-- [Popclip](https://pilotmoon.com/popclip/) - 可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 182 次，收费 88
+- [**Alfred**](https://www.alfredapp.com/) - 针对 macOS 的效率启动器。具有网页搜索、翻译、打开网址 / 软件 / 浏览器书签等功能。可使用 [Workflows](https://www.alfredapp.com/workflows/) 扩展功能，Workflows 收费，[中文教程](https://www.jianshu.com/p/e9f3352c785f)
+- [**Manico**](https://manico.im/) - 可自定义快捷键切换和打开应用程序的工具，相当于 Windows 的「Win键+数字」。建议给应用自定义快捷键。默认免费，去除收费提醒 25 元
+- [**HyperSwitch**](https://bahoom.com/hyperswitch) - 窗口切换工具。可使用 ``Cmd + ` `` 切换当前应用打开的多个窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下。 `Cmd + Tab` 不按打开软件的时间排序，有点方便。
+- [Popclip](https://pilotmoon.com/popclip/) - 可直接操作任何页面选中的字符，直接实现搜索、发音、字典、翻译、复制、剪贴等功能，可添加丰富的插件。官网下载可试用 183 次，收费 88
 - [微信 Mac 版公测版](https://dldir1.qq.com/weixin/mac/WeChatMac_Beta.dmg) + [WeChatPlugin-MacOS](https://github.com/FlyingPigQAQ/WeChatPlugin-MacOS) - 可打开小程序；可将烦人群信息「置底」(Sticky Bottom)
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 shell 环境
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-- [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12) - 可为每天设置指定个数的计数器，并带有记录功能，我用来记录每天真实工作时长
+- [Be Focused](https://apps.apple.com/us/app/be-focused-focus-timer/id973134470?mt=12) - 可为每天设置指定个数的计数器，并带有记录功能
 - [Hazel](https://www.noodlesoft.com/) - 升级版 Automator
-- [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上好用的虚拟机，可同时运行 Windows 和 macOS，建议双十一打折时购入
+- [Parallels Desktop](https://www.parallels.com/products/desktop/)  - macOS  上好用的虚拟机，可同时运行 Windows 和 macOS，建议双十一打折时购入（7 折）
 - [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
 - [Dash](https://kapeli.com/dash) - 可以让你离线访问所有主流语言 API 的软件，有 iOS 版本
 - [Toolbox](https://www.jetbrains.com/toolbox-app/) - 一个同步 Jetbrains 开发环境配置的工具
@@ -99,14 +99,14 @@ GitHub: https://github.com/DeppWang/Tools
 - [MWeb](https://apps.apple.com/us/app/mweb/id1403919533) - iOS 上的 MorkDown 编辑器，MWeb + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
 - [语音报时闹钟](https://apps.apple.com/cn/app/语音报时闹钟/id1234580156) - 支持整点报时、半点报时、自定义任意时刻报时、间隔无限报时、倒计时等等
 - [Working Copy](https://workingcopyapp.com/) - 一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
-- [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720) - 电话短信防骚扰 App，免费
+- [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720) - 电话短信防骚扰 APP，免费
 
 ## Android
 
-- [健身宝典](https://www.wandoujia.com/apps/399479) - 一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
-- [My GitHub](https://mygithub.app/) - 一款查看个人 GitHub 的 App
+- [健身宝典](https://www.wandoujia.com/apps/399479) - 一款无广告、动作全的器械健身 APP，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
+- [My GitHub](https://mygithub.app/) - 一款查看个人 GitHub 的 APP
 - [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub) - 一款查看 GitHub 热门项目（Trending）的 Android 客户端
-- [AIDE](https://www.android-ide.com/) - 一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
+- [AIDE](https://www.android-ide.com/) - 一款支持在 Android 上运行代码的 APP（默认是一个安卓项目）
 
 ## Browser Extensions
 
@@ -153,8 +153,8 @@ GitHub: https://github.com/DeppWang/Tools
 - [Etymonline](https://www.etymonline.com/) - 一个查询单词起源、历史的词典，可查询单词起源、历史，用于词根记忆。
 - [轻听英语](https://langeasy.com.cn/) - UI 特别优秀的英语听力 APP
 - [VOA](https://apps.apple.com/cn/app/voa%E6%85%A2%E9%80%9F%E8%8B%B1%E8%AF%AD-voa%E6%AF%8F%E6%97%A5%E8%8B%B1%E8%AF%AD%E5%90%AC%E5%8A%9B/id576745090) - 可读每日一句、每日新闻的英语学习 iOS APP，免费，大量用户打卡
-- [VOA 慢速英语](https://www.wandoujia.com/apps/27475) - 一款可语音测评的 VOA 慢速英语 Andriod App。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
-- [翻译](https://translate.google.cn/) - 一款 Google 出品的翻译 App，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
+- [VOA 慢速英语](https://www.wandoujia.com/apps/27475) - 一款可语音测评的 VOA 慢速英语 Andriod APP。另有[VOA常速英语](https://android.myapp.com/myapp/detail.htm?apkName=com.iyuba.CSvoa&ADTAG=mobile)
+- [翻译](https://translate.google.cn/) - 一款 Google 出品的翻译 APP，比较准，Android 版悬浮窗很实用，缺点是有的单词没音标
 - [巴别英语](https://www.babelabc.com/) - 刷视频学口语，单句重复 / 灵活字幕 / 情境填词
 - [英语轻松读](https://tiny4.org/enreader/) - 一款直接显示生词，用于辅助英语阅读的科技新闻阅读 APP
 - [Rosetta Stone](https://www.rosettastone.com/) - 主要以「听音辨图」的自然方法学习英语（或其他外语）的软件，收费挺贵，[中文教程](https://mp.weixin.qq.com/s/cjhzK9V3E0CATOxhqkVU7g)
@@ -205,7 +205,7 @@ GitHub: https://github.com/DeppWang/Tools
 - [微信读书](https://weread.qq.com/) - 现在可以免费阅读中文正版书籍，墨水版很 nice
 - [ZLibrary](https://b-ok.cc/) - 世界上最大的电子图书馆
 - [鸠摩搜书](https://www.jiumodiary.com/) - 一个能搜索全网电子书的网站
-- [西窗烛](http://www.xcz.im/) - 一个体会诗词之美的 App，可读史记、红楼梦
+- [西窗烛](http://www.xcz.im/) - 一个体会诗词之美的 APP，可读史记、红楼梦
 - [TECHURLS](https://techurls.com/) - 阅读各大科技平台最热新闻
 - [Hacker News](https://news.ycombinator.com/news) - 简写 HN，了解 Hacker 关心的问题，一个更好的 [UI](http://hackernews.betacat.io/)
 - [Product Hunt](https://www.producthunt.com/) - 了解最新奇、最好玩的科技产品
@@ -228,20 +228,20 @@ GitHub: https://github.com/DeppWang/Tools
 - [IINA](https://iina.io/) - MAC 下简洁好用的视频播放器
 - [疯狂影视搜索](http://ifkdy.com/) - 一个能搜索全网影视资源的网站
 - [一席](https://yixi.tv/[) - 「听君一席话」，听有深度的演讲、看有思考的视频
-- [人人视频](https://rr.tv/) - 一个看美剧/韩剧/日剧/泰剧的 App
-- [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大，操作简单的视频剪辑 App
+- [人人视频](https://rr.tv/) - 一个看美剧/韩剧/日剧/泰剧的 APP
+- [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大，操作简单的视频剪辑 APP
 
 <!--[VUE](https://vuevideo.net/) - 一个精品短视频社区-->
 
-## PC App
+## PC APP
 
 - [Spark](https://sparkmailapp.com/) - macOS 上免费好用的邮件客户端
 - [网易 Mumu](http://mumu.163.com/) - 网易出品的安卓模拟器
 - [TeamViewer](https://www.teamviewer.cn/cn/) - 一款远程操控的软件，比 QQ 远程操控功能强大
 
-## App
+## APP
 
-- [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的 App，也有大量吉他谱
+- [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的 APP，也有大量吉他谱
 - [Pocket](https://getpocket.com/) - Pocket APP
 - [彩云天气](https://caiyunapp.com/) - 比较准的简洁的查询天气 APP，[网页端](http://www.caiyunapp.com/map/)
 - [Wikipedia](http://wikipedia.org/) - 维基百科 APP
@@ -249,7 +249,7 @@ GitHub: https://github.com/DeppWang/Tools
 - [NBA](http://global.nba.com/nba-apps/index.html) - NBA 官方 APP
 - [ESPN](http://www.espn.com/espn/apps/espn) - ESPN APP
 - [Speed Test](https://www.speedtest.net/apps) - 好用的网速测试 APP
-- [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
+- [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 APP，功能强大，容易上手
 
 ## 小程序
 
