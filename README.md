@@ -44,7 +44,7 @@ GitHub: https://github.com/DeppWang/Tools
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
 - [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
 - [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner) - 完全及安全的卸载 APP，完整功能收费，可利用软件找到隐藏大文件路径，再手动清理
-- [Spark](https://sparkmailapp.com/) - macOS 上免费好用的邮件客户端，缺点是内存占用大
+- [Spark](https://sparkmailapp.com/) - macOS 上免费好用的邮件客户端，缺点是耗电
 - [iPic](https://apps.apple.com/cn/app/ipic-markdown-图床-文件上传工具/id1101244278?mt=12) - 针对 macOS 的图床神器，可结合 Typora 使用，复制图片到 Typora 自动上传到图床，图床可自定义，使用自定义图床收费，建议开启图片压缩功能，可加快访问速度，减少流量（如果使用自定义图床）。[中文教程](https://sspai.com/post/34756)
 - [uPic](https://github.com/gee1k/uPic) - macOS 上开源的图片上传和管理的图床客户端
 
@@ -79,7 +79,7 @@ GitHub: https://github.com/DeppWang/Tools
 - [Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) - 俗称小火箭，科学上网 iOS 客户端，需非大陆账号登录下载，收费
 - [PPHub](https://apps.apple.com/cn/app/pphub-for-github-%E5%BC%80%E5%8F%91%E8%80%85%E5%BF%85%E5%A4%87/id1314212521) - 一个漂亮实用的 iOS GitHub 客户端，收费 18 元
 - [Octal](https://apps.apple.com/us/app/octal-hacker-news/id1308885491) - Hacker News 的 iOS 客户端
-- [1 Write]([1 Write](https://apps.apple.com/us/app/mweb/id1403919533)) - iOS 上的 MorkDown 编辑器，1Write + iCloud 云盘（或 Dropbox） + Typora，可实现笔记多端实时同步与编辑，详见 [Typora 官方教程](http://support.typora.io/Sync/)，免费
+- [1 Write](https://apps.apple.com/us/app/mweb/id1403919533) - iOS 上的 MorkDown 编辑器，免费
 - [Working Copy](https://workingcopyapp.com/) - 一个实用的 iOS Git 客户端， push 功能收费，有时候会打折（原价 108）
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720) - 电话短信防骚扰 App，免费
 
