@@ -1,6 +1,6 @@
 # 软件工具推荐
 
-推荐我正在使用、使用过的、觉得还不错的工具，涉及 macOS / iOS / Chrome 插件 / AI 等。
+推荐我使用过的、觉得还不错的软件工具，涉及 AI / macOS / iOS / Chrome 插件等。
 
 因为我使用 Apple 全家桶，所以 Apple 生态的软件更多。
 
@@ -9,10 +9,11 @@
 ## 目录
 
 - [个人数据](#个人数据)
+- [AI](#AI)
 - [macOS](#macOS)
+  - [Alfred Workflows](#alfred-workflows)
 - [iOS](#iOS)
 - [Chrome 插件](#Chrome-插件)
-- [AI](#AI)
 - [英语](#英语)
 - [输出](#输入)
 - [输入](#输入)
@@ -25,9 +26,30 @@
 ## 个人数据
 
 - [Obsidian](https://obsidian.md/) - 具有双链、Tag、文档本地保存功能的 Markdown 客户端编辑器，我用来管理我的个人知识库，我用 GitHub 同步。[教程](https://catcoding.me/p/obsidian-for-programmer/)
-- [Raindrop.io](https://raindrop.io/) - 数据收藏与稍后阅读
 - [iCloud 钥匙串](https://support.apple.com/zh-cn/109016) - 个人密码管理器，全平台同步，有「两步验证」功能，可配合 [iCloud 密码](https://chromewebstore.google.com/detail/icloud-%E5%AF%86%E7%A0%81/pejdijmoenmkgeppbflobdenhhabjlaj) 扩展在 Chrome 中使用
+- [Raindrop.io](https://raindrop.io/) - 数据收藏与稍后阅读
 - [滴答清单](https://todo.microsoft.com/tasks/) - 国产、人性化的（to-do-list）应用软件
+
+## AI
+
+搜索
+
+- [Perplexity](https://www.perplexity.ai/) - AI 搜索引擎，先搜索出结果，再用大模型总结，实时性更高
+
+问答
+
+- [Poe](https://poe.com/) - 集成各家的大模型的聚合工具，对网络要求没有那么高。基本模型可免费使用
+- [ChatGPT](https://chat.openai.com/) - 大模型问答工具，对网络要求更高。基本模型可免费使用
+- [Claude](https://claude.ai/) - 跟 ChatGPT 一样的大模型问答工具，目前表现也很优秀。基本模型可免费使用
+- [Gemini](https://gemini.google.com/) - Google 出品的大模型工具。基本模型可免费使用
+
+音乐
+
+- [Suno](https://www.suno.ai/) - AI 制作音乐
+
+工具
+
+- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 可配合 Vercel 免费搭建私有 GPT 应用，使用 API Key。降低网络依赖
 
 ## macOS
 
@@ -47,7 +69,7 @@
 - [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner) - 完全及安全的卸载 APP，完整功能收费，可利用软件找到隐藏大文件路径，再手动清理。可在[数码荔枝](https://www.lizhi.io/)中[低价](https://item.taobao.com/item.htm?id=693526072700)购买正品
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 开源的屏幕亮度控制软件，我用来控制外接显示屏的亮度
-- [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 Shell 环境，在 macOS Sonoma 中使用「右键标签」进入 Shell
+- [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 Shell 环境，在 macOS Sonoma 中使用「右键选项」进入 Shell
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - 查看当前的下载与上传的网速
 - [AlDente](https://apphousekitchen.com/) - 可设置电池充电比例，延长电池使用寿命
 - [Microsoft Remote Desktop](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12) - 远程控制 Windows 电脑桌面
@@ -88,7 +110,6 @@
 - [Grammarly](https://www.grammarly.com/p) - 浏览器输入框英语输入时语法检测与提示
 - [JSON Formatter](https://github.com/callumlocke/json-formatter) - 格式化 URL 接口数据为 JSON 格式的插件
 - [Tampermonkey](https://www.tampermonkey.net/)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[下载地址](https://github.com/DeppWang/Tools/tree/master/resources/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
-- [STTF Url Generator](https://github.com/chunliu/sttf-url-generator) - 用于生成打开即可高亮复制内容的链接
 - [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
 - [ProductivityTab](https://chrome.google.com/webstore/detail/productivitytab-%E2%80%94-custom/iccjgbbjckehppnpajnmplcccjcgbdep)：一个可定制的个人仪表盘在您的新标签页上，具有 50 多个小部件
 
@@ -96,27 +117,6 @@
 
 - [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97) - 一款去除（百度）搜索引擎右侧广告，更改搜索页样式的脚本。建议用 Google :-)
 - [网盘助手](https://greasyfork.org/en/scripts/378301-网盘助手) - 一款生成下载链接的的网盘助手（可用于百度网盘）
-
-## AI
-
-搜索
-
-- [Perplexity](https://www.perplexity.ai/) - AI 搜索引擎，先搜索出结果，再用大模型总结，实时性更高
-
-问答
-
-- [Poe](https://poe.com/) - 集成各家的大模型的聚合工具，对网络要求没有那么高。基本模型可免费使用
-- [ChatGPT](https://chat.openai.com/) - 大模型问答工具，对网络要求更高。基本模型可免费使用
-- [Claude](https://claude.ai/) - 跟 ChatGPT 一样的大模型问答工具，目前表现也很优秀。基本模型可免费使用
-- [Gemini](https://gemini.google.com/) - Google 出品的大模型工具。基本模型可免费使用
-
-音乐
-
-- [Suno](https://www.suno.ai/) - AI 制作音乐
-
-工具
-
-- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 可配合 Vercel 免费搭建私有 GPT 应用，使用 API Key。降低网络依赖
 
 ## 英语
 
@@ -231,7 +231,7 @@ PPT
 ## 开发
 
 - [GitHub](https://github.com) - 开源项目代码托管网站，程序员的天堂
-- [Cloudflare](https://www.cloudflare.com) - 一个可免费使用的、主要做 DNS 与的云平台
+- [Cloudflare](https://www.cloudflare.com) - 一个有很多免费好用的网站功能（如：HTTPS 加密、DNS 解析、CAPTCHA 验证、Pages 等）的良心云平台
 - [Vercel](https://vercel.com/) - 一个有一定免费额度，可部署 Web 服务的 PaaS 平台
 - [Apifox](https://apifox.com/) - 一个 GUI 优秀、功能全的 API 设计、开发、测试工具
 - [Colab](https://colab.research.google.com/?hl=zh-cn) - 一个由 Google 提供的免费的云端 [Jupyter](https://jupyter.org/) Notebook 环境
@@ -263,10 +263,10 @@ PC App
 App
 
 - [Tailscale](https://github.com/tailscale/tailscale) - 一个 VPN 软件，可为设备间建立点对点直连关系
-- [Wikipedia](http://wikipedia.org/) - 维基百科 APP
 - [Speed Test](https://www.speedtest.net/apps) - 好用的网速测试 APP
 - [MetroMan](https://www.metroman.cn/index.html?lang=zh) - 一款精美的地铁线路查询 APP
-- [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的 App，也有大量吉他谱
+- [Wikipedia](http://wikipedia.org/) - 维基百科手机 APP
+- [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的手机 App，也有大量吉他谱
 
 无法归类
 
