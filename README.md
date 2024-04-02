@@ -1,6 +1,6 @@
 # 软件工具推荐
 
-推荐我正在使用或使用过的、觉得还不错的工具， - 涉及 macOS / iOS / Browser / Alfred 等。
+推荐我正在使用、使用过的、觉得还不错的工具，涉及 macOS / iOS / Chrome 插件 / AI 等。
 
 因为我使用 Apple 全家桶，所以 Apple 生态的软件更多。
 
@@ -11,12 +11,12 @@
 - [个人数据](#个人数据)
 - [macOS](#macOS)
 - [iOS](#iOS)
-- [Browser Extensions](#Browser-Extensions)
+- [Chrome 插件](#Chrome-插件)
 - [AI](#AI)
 - [英语](#英语)
 - [输出](#输入)
 - [输入](#输入)
-- [产品 + 技术](#产品-+-技术)
+- [开发](#开发)
 - [Windows](#Windows)
 - [Android](#Android)
 - [其他](#其他)
@@ -39,18 +39,14 @@
 - [HyperSwitch](https://bahoom.com/hyperswitch) - 窗口切换工具。可设置快捷键（如 ``Cmd + ` ``）切换当前应用打开的多个窗口，非常实用。如提示不能打开，在「Security & Privacy」中设置一下
 - [iTerm2](https://iterm2.com/) - 一款好用的终端软件
 - [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/) - 针对 macOS 的免费下载工具，也有 Windows 版，并发数设为 32 可提速
-
 - [MacCopier](https://github.com/DreamSaddle/MacCopier) - 可自动将验证码提取到剪贴板，并复制到光标处
-- [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
-- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
 
 在用的
 
+- [Xnip](http://zh.xnipapp.com/) - 一个可在 macOS 上长截屏的截屏软件，可使用 Automator [截屏时自动压缩图片大小](https://depp.wang/2020/08/07/how-to-automatically-compress-screenshot-size-in-macos/)
+- [Dozer](https://github.com/Mortennn/Dozer) - 一个管理「人满为患」的顶部菜单栏图标的开源免费工具
 - [App Cleaner & Uninstaller](https://nektony.com/mac-app-cleaner) - 完全及安全的卸载 APP，完整功能收费，可利用软件找到隐藏大文件路径，再手动清理。可在[数码荔枝](https://www.lizhi.io/)中[低价](https://item.taobao.com/item.htm?id=693526072700)购买正品
-- [Kap](https://getkap.co/) - 好用的录屏软件
 - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - 开源的屏幕亮度控制软件，我用来控制外接显示屏的亮度
-- [Keynote](https://www.apple.com.cn/keynote/) - Apple 平台上的稳定好用的 PPT 工具
-- [iMovie](https://support.apple.com/zh-cn/imovie) - Apple 平台上的简单好用的视频剪辑工具
 - [Go2Shell](https://zipzapmac.com/go2shell) - 在 Finder 里快速进入 Shell 环境，在 macOS Sonoma 中使用「右键标签」进入 Shell
 - [Bandwidth+](https://apps.apple.com/us/app/bandwidth/id490461369) - 查看当前的下载与上传的网速
 - [AlDente](https://apphousekitchen.com/) - 可设置电池充电比例，延长电池使用寿命
@@ -62,8 +58,8 @@
 
 - [<译> Alfred 官网 的 Workflows 帮助](https://depp.wang/2019/11/10/translate-alfred-workflows-help/)
 - [alfred-github-workflow](https://github.com/gharlan/alfred-github-workflow) - 提供查看个人 GitHub 仓库、stars，搜索用户、仓库等一系列功能
-- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) - 集翻译、发音、添加单词本、复制剪贴板功能一体
 - [欧路词典](https://github.com/huiscool/eudic-lookup) - 欧路词典的 Alfred Workflows
+- [有道翻译加强版](https://github.com/DeppWang/Tools/raw/master/resources/Alfred-Workflows/有道翻译加强版_2015.11.alfredworkflow) - 集翻译、发音、添加单词本、复制剪贴板功能一体
 - [alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr) - 截屏后 Alfred 输入关键字（ocr），自动识别文字，并复制到剪贴板
 - [alfred-google-translate](https://github.com/xfslove/alfred-google-translate) - 基于 Google 翻译 API 的翻译插件，无需打开网页
 - [Alfred-HackerNews](https://github.com/wangshub/Alfred-HackerNews) - [Hacker News](https://news.ycombinator.com/news) Alfred Workflows
@@ -79,7 +75,7 @@
 - [腾讯手机管家](https://apps.apple.com/cn/app/%E8%85%BE%E8%AE%AF%E6%89%8B%E6%9C%BA%E7%AE%A1%E5%AE%B6-%E7%94%B5%E8%AF%9D%E7%9F%AD%E4%BF%A1%E9%98%B2%E9%AA%9A%E6%89%B0%E4%B8%93%E5%AE%B6/id439638720) - 电话短信防骚扰 App，免费
 - [Octal](https://apps.apple.com/us/app/octal-hacker-news/id1308885491) - Hacker News 的 iOS 客户端
 
-## Browser Extensions
+## Chrome 插件
 
 - [iCloud 密码](https://chromewebstore.google.com/detail/icloud-%E5%AF%86%E7%A0%81/pejdijmoenmkgeppbflobdenhhabjlaj) - 使用 iCloud 钥匙串做「密码管理器」与「两步验证」，可自动填充账号密码，只能macOS Sonoma 与以上系统使用
 - [NeatDownloadManager](https://chrome.google.com/webstore/detail/neatdownloadmanager-exten/cpcifbdmkopohnnofedkjghjiclmhdah) - 用于启动 NeatDownloadManager 下载
@@ -98,24 +94,29 @@
 
 油猴脚本
 
-- 脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。
-- [破解 VIP 会员视频集合](https://greasyfork.org/zh-CN/scripts/27530-%E7%A0%B4%E8%A7%A3vip%E4%BC%9A%E5%91%98%E8%A7%86%E9%A2%91%E9%9B%86%E5%90%88) - 一款破解各大视频网站 VIP 视频的脚本
 - [AC-baidu](https://greasyfork.org/en/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E6%90%9C%E7%B4%A2-%E5%8E%BB%E5%B9%BF%E5%91%8A-favicon-%E5%8F%8C%E5%88%97) - 一款去除（百度）搜索引擎右侧广告，更改搜索页样式的脚本。建议用 Google :-)
 - [网盘助手](https://greasyfork.org/en/scripts/378301-网盘助手) - 一款生成下载链接的的网盘助手（可用于百度网盘）
 
 ## AI
 
-- 搜索
-  - [Perplexity](https://www.perplexity.ai/) - AI 搜索引擎，先搜索出结果，再用大模型总结，实时性更高
-- 问答
-  - [Poe](https://poe.com/) - 集成各家的大模型的聚合工具，对网络要求没有那么高。基本模型可免费使用
-  - [ChatGPT](https://chat.openai.com/) - 大模型问答工具，对网络要求更高。基本模型可免费使用
-  - [Claude](https://claude.ai/) - 跟 ChatGPT 一样的大模型问答工具，目前表现也很优秀。基本模型可免费使用
-  - [Gemini](https://gemini.google.com/) - Google 出品的大模型工具。基本模型可免费使用
-- 音乐
-  - [Suno](https://www.suno.ai/) - AI 制作音乐
-- 工具
-  - [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 可配合 Vercel 免费搭建私有 GPT 应用，使用 API Key。降低网络依赖
+搜索
+
+- [Perplexity](https://www.perplexity.ai/) - AI 搜索引擎，先搜索出结果，再用大模型总结，实时性更高
+
+问答
+
+- [Poe](https://poe.com/) - 集成各家的大模型的聚合工具，对网络要求没有那么高。基本模型可免费使用
+- [ChatGPT](https://chat.openai.com/) - 大模型问答工具，对网络要求更高。基本模型可免费使用
+- [Claude](https://claude.ai/) - 跟 ChatGPT 一样的大模型问答工具，目前表现也很优秀。基本模型可免费使用
+- [Gemini](https://gemini.google.com/) - Google 出品的大模型工具。基本模型可免费使用
+
+音乐
+
+- [Suno](https://www.suno.ai/) - AI 制作音乐
+
+工具
+
+- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - 可配合 Vercel 免费搭建私有 GPT 应用，使用 API Key。降低网络依赖
 
 ## 英语
 
@@ -126,8 +127,8 @@
 - [Language Reactor](https://chrome.google.com/webstore/detail/hoombieeljmmljlkjmnheibnpciblicm)：非常人性化的视频字幕学习软件，支持单句播放完自动暂停、隐藏字幕等功能，支持 Netflix、YouTube 等平台
 - [每日英语听力](http://dict.eudic.net/ting/) - 欧路词典出品的英语听力 APP，免费，干净，内容丰富。可切换英音、美音，可默认发音，译文开闭可调，可测评
 - [HelloTalk](https://www.hellotalk.com/) - 在上面可以找练口语的外国友人搭子
-- [NBA](http://global.nba.com/nba-apps/index.html) - NBA 官方 APP，提升英语阅读
-- [ESPN](http://www.espn.com/espn/apps/espn) - ESPN APP，提升英语阅读
+- [NBA](http://global.nba.com/nba-apps/index.html) - NBA 官方 APP，NBA 资讯
+- [ESPN](http://www.espn.com/espn/apps/espn) - ESPN APP，体育资讯
 
 用过的
 
@@ -147,15 +148,17 @@
 
 文字
 
-- [Tyropa](https://www.typora.io/) - 简洁、好用、所见即所写的 Markdown 客户端编辑器。可以使用 Dropbox + MWeb 实现全平台同步
-- [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 介绍一些中文文档排版时的规范和技巧的 wiki
-- [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) - 阮一峰出品
+- [Tyropa](https://www.typora.io/) - 简洁、好用、所见即所写的 Markdown 客户端编辑器
 - [Markdown Nice](https://www.mdnice.com/) - 美观的公众号在线排版工具
 - [iWubi](https://github.com/iHTCboy/iWuBi) - 简单好用的五笔字根查询工具
+- [chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines) - 介绍一些中文文档排版时的规范和技巧的 wiki
+- [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide) - 阮一峰出品
 
 视频
 
-- [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大，操作简单的视频剪辑的 App
+- [Kap](https://getkap.co/) - macOS 上好用的录屏软件
+- [iMovie](https://support.apple.com/zh-cn/imovie) - Apple 平台上的简单好用的视频剪辑工具
+- [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大、操作简单的手机视频剪辑的 App
 
 绘图
 
@@ -175,6 +178,10 @@
 
 - [PicGo](https://molunerfinn.com/PicGo/) - 开源的图片上传和管理的图床客户端，支持 macOS、Windows、Linux。[GitHub 地址](https://github.com/Molunerfinn/PicGo)
 - [iPicMover](https://apps.apple.com/cn/app/ipic-mover/id1183822957?mt=12) - iPic 作者开发的博客图片迁移工具
+
+PPT
+
+- [Keynote](https://www.apple.com.cn/keynote/) - Apple 平台上的稳定好用的 PPT 工具
 
 <!--Graphviz-->
 
@@ -213,7 +220,7 @@
 - [Stack Overflow](https://stackoverflow.com/) - 一个大牛云集的 IT 技术问答网站，有 Android 客户端
 - [Stack Exchange](https://stackexchange.com/) - 一个涵盖各个领域的问答网站，包括 Stack Overflow 的问题。有 iOS、Android 客户端
 
-<!-- Telegram、长毛象、Discord 、 v2ex 、 telegram \ discord reddit quora -->
+<!-- 长毛象、Discord reddit quora -->
 
 其他
 
@@ -221,7 +228,7 @@
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
 - [汉字源](https://hanziyuan.net/) - 一个学习汉字起源的网站
 
-## 产品 + 技术
+## 开发
 
 - [GitHub](https://github.com) - 开源项目代码托管网站，程序员的天堂
 - [Cloudflare](https://www.cloudflare.com) - 一个可免费使用的、主要做 DNS 与的云平台
@@ -273,5 +280,3 @@ App
 
 - [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps)
 - [Best-App](https://github.com/hzlzh/Best-App)
-- [如何打造一个程序员专属的 Mac 开发环境？](https://mp.weixin.qq.com/s/b5fQAh7aoq6RKWXEpkzZpQ)
-- [开发效率提升 - Mac 生产力工具链推荐](https://github.com/Louiszhai/tool/)
