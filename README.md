@@ -225,6 +225,7 @@ PPT
 其他
 
 - [西窗烛](http://www.xcz.im/) - 一个体会诗词之美的 App，可读史记、红楼梦
+- [Wikipedia](http://wikipedia.org/) - 维基百科，有手机 APP
 - [wikiHow](https://zh.wikihow.com/%E9%A6%96%E9%A1%B5) - 一个学习了解常见知识的的问答网站
 - [汉字源](https://hanziyuan.net/) - 一个学习汉字起源的网站
 
@@ -263,7 +264,6 @@ App
 - [Tailscale](https://github.com/tailscale/tailscale) - 一个 VPN 软件，可为设备间建立点对点直连关系
 - [Speed Test](https://www.speedtest.net/apps) - 好用的网速测试 APP
 - [MetroMan](https://www.metroman.cn/index.html?lang=zh) - 一款精美的地铁线路查询 APP
-- [Wikipedia](http://wikipedia.org/) - 维基百科手机 APP
 - [爱玩吉他](http://iguitar.immusician.com/) - 一个通过游戏解锁进阶学习吉他的手机 App，也有大量吉他谱
 
 无法归类
