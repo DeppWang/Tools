@@ -230,7 +230,7 @@ PPT
 
 ## 开发
 
-- [GitHub](https://github.com) - 开源项目代码托管网站，程序员的天堂
+- [GitHub](https://github.com) - 开源项目代码托管网站，程序员的天堂，有 APP
 - [Cloudflare](https://www.cloudflare.com) - 一个有很多免费好用的网站功能（如：HTTPS 加密、DNS 解析、CAPTCHA 验证、Pages 等）的良心云平台
 - [Vercel](https://vercel.com/) - 一个有一定免费额度，可部署 Web 服务的 PaaS 平台
 - [Apifox](https://apifox.com/) - 一个 GUI 优秀、功能全的 API 设计、开发、测试工具
@@ -248,9 +248,7 @@ PPT
 
 ## Android
 
-- [健身宝典](https://www.wandoujia.com/apps/399479) - 一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
-- [My GitHub](https://mygithub.app/) - 一款查看个人 GitHub 的 App
-- [Top GitHub](https://apkgk.com/com.mmazzarolo.dev.topgithub) - 一款查看 GitHub 热门项目（Trending）的 Android 客户端
+- [健身宝典](https://www.downkuai.com/android/130185.html) - 一款无广告、动作全的器械健身 App，有动画动作指导、锻炼计划设置、锻炼数据记录等功能，唯一缺点是不能同步到云
 - [AIDE](https://www.android-ide.com/) - 一款支持在 Android 上运行代码的 App（默认是一个安卓项目）
 
 ## 其他
