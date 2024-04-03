@@ -11,7 +11,6 @@
 - [个人数据](#个人数据)
 - [AI](#AI)
 - [macOS](#macOS)
-  - [Alfred Workflows](#alfred-workflows)
 - [iOS](#iOS)
 - [Chrome 插件](#Chrome-插件)
 - [英语](#英语)
@@ -158,12 +157,12 @@
 
 - [Kap](https://getkap.co/) - macOS 上好用的录屏软件
 - [iMovie](https://support.apple.com/zh-cn/imovie) - Apple 平台上的简单好用的视频剪辑工具
+- [FlipaClip](https://support.flipaclip.us/) - 一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
 - [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大、操作简单的手机视频剪辑的 App
 
 绘图
 
 - [Excalidraw](https://excalidraw.com/) - 一个非常简单易用的白板绘图开源工具 
-- [FlipaClip](https://support.flipaclip.us/) - 一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
 - [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
 - [carbon](https://carbon.now.sh/) - 将代码块转换为图片的网站
 
