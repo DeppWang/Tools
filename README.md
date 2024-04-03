@@ -111,6 +111,7 @@
 - [Tampermonkey](https://www.tampermonkey.net/)  - 俗称油猴，一个用户脚本管理器，脚本安装地址 --- [Greasy Fork](https://greasyfork.org/zh-CN)。[下载地址](https://github.com/DeppWang/Tools/tree/master/resources/Chrome-extensions#3tampermonkey-%E4%B8%8B%E8%BD%BD)
 - [Dark Reader](https://github.com/darkreader/darkreader) - 夜间模式，适用于任何网站，完全免费
 - [ProductivityTab](https://chrome.google.com/webstore/detail/productivitytab-%E2%80%94-custom/iccjgbbjckehppnpajnmplcccjcgbdep)：一个可定制的个人仪表盘在您的新标签页上，具有 50 多个小部件
+- [STTF Url Generator](https://github.com/chunliu/sttf-url-generator) - 用于生成打开即可高亮复制内容的链接
 
 油猴脚本
 
@@ -160,7 +161,7 @@
 - [FlipaClip](https://support.flipaclip.us/) - 一款绘制动画的软件，通过一帧帧的图像最后合成动画。[中文教程](https://mp.weixin.qq.com/s/ecznQk3G0KiGSquuH1vd1w)
 - [VLLO](https://www.google.com/search?q=VLLO) - 一款功能强大、操作简单的手机视频剪辑的 App
 
-绘图
+图片
 
 - [Excalidraw](https://excalidraw.com/) - 一个非常简单易用的白板绘图开源工具 
 - [Snapseed](https://snapseed.online/) - 一款 Google 出品的免费修图 App，功能强大，容易上手
