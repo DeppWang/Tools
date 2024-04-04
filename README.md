@@ -4,7 +4,7 @@
 
 因为我使用 Apple 全家桶，所以 Apple 生态的软件更多。
 
-同步更新到 GitHub: https://github.com/DeppWang/Tools
+最新版请看: https://depp.wang/tools
 
 ## 目录
 
